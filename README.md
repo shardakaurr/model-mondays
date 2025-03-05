@@ -1,9 +1,5 @@
 
-![Banner](./img/model-mondays-banner.png)
-
----
-
-# A Weekly Series To Build Your Model IQ
+# Model Mondays: Build Your Model IQ
 
 Welcome to Model Mondays - a weekly 30-minute livestream series that helps you keep track of the fast-paced growth of the AI models ecosystem in actionable ways.
 
@@ -18,6 +14,24 @@ Welcome to Model Mondays - a weekly 30-minute livestream series that helps you k
 > [!IMPORTANT]  
 > [Join our Discord!](https://aka.ms/model-mondays/discord) <br/>
 > Model Mondays office hours will be held on Azure AI Discord every Friday 1:30pm-2:00pm EST. You can also join the #model-mondays channel for discussions at any time!
+
+---
+
+![Banner](./img/model-mondays.png)
+
+## Season One
+
+| Ep | Air Date | Description | Recording | Resources |
+|:---|:---|:---|:---|:---|
+| #01 - GitHub Models | Mar 10, 2025 | In this kickoff episode, we’ll set the stage for season 1 by talking about the models we’ll spotlight. Then, we’ll do a deep dive into GitHub Models and show you how you can get started with exploring these hands-on today, with just a GitHub account! | [**RSVP OPEN**](https://developer.microsoft.com/reactor/events/25265/)| |
+| #02 - Reasoning Models| Mar 17, 2025 | In this episode, we’re joined by Jennifer Marsman as we dive into the world of reasoning models. We’ll get hands-on with the o1 series of models and more as we learn what these models can do, how they work, and how you can use them most effectively for your generative AI application needs. | [**RSVP OPEN**](https://developer.microsoft.com/en-us/reactor/events/25266/) | | 
+| #03 - Cohere Models | Mar 24, 2025 | _Coming soon_ | | |
+| #04 - Stability Models | Mar 31, 2025 |_Coming soon_ | | |
+| #05 - Mistral Models | Apr 07, 2025 |_Coming soon_ | | |
+| #06 - Synthetic Datasets | Apr 14, 2025 |_Coming soon_ | | |
+| #07 - Meta Models | Apr 21, 2025 | _Coming soon_ | | |
+| #08 - With Forecasting Models | Apr 28, 2025 | _Coming soon_ | | |
+| | | | | 
 
 
 ---
