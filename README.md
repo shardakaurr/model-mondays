@@ -1,14 +1,27 @@
-# Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+![Banner](./img/model-mondays-banner.png)
 
-As the maintainer of this project, please make a few updates:
+---
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+# A Weekly Series To Build Your Model IQ
+
+Welcome to Model Mondays - a weekly 30-minute livestream series that helps you keep track of the fast-paced growth of the AI models ecosystem in actionable ways.
+
+- **Model Roundup** - Catch up on a week's worth of model news in 5 minutes
+- **Model Spotlight** - Get a deep dive into one featured model each week
+- **Community Chat** - Bring your questions and insights to office hours on Discord!
+
+> [!IMPORTANT]  
+> [Register here and join us live](https://aka.ms/model-mondays/RSVP)! <br/>
+> Model Mondays will be livestreamed every Monday from 1:30pm-2:00pm EST on Microsoft Reactor! Season 1 kicks off on March 10 with 8 episodes planned for the first run. 
+
+> [!IMPORTANT]  
+> [Join our Discord!](https://aka.ms/model-mondays/discord) <br/>
+> Model Mondays office hours will be held on Azure AI Discord every Friday 1:30pm-2:00pm EST. You can also join the #model-mondays channel for discussions at any time!
+
+
+---
+
 
 ## Contributing
 
