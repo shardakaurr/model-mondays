@@ -17,21 +17,39 @@ Welcome to Model Mondays - a weekly 30-minute livestream series that helps you k
 
 ---
 
+<br/>
+
 ![Banner](./img/model-mondays.png)
 
-## Season One
+---
 
-| Ep | Air Date | Description | Recording | Resources |
+## Show Format
+
+Every Model Mondays episode consists of a 30-minute livestream with 2 core segments:
+
+- **Model Roundup** (5 min) - each episode starts with a 5-min recap of the top 5 model-related stories that caught our attention last week!
+- **Model Spotlight** (20 min) - then, we spend the next 20 minutes putting the spotlight on a specific model or model category to help you understand _why_ it matters, _when_ to use it, and _how_ to get started.
+
+We'll use the last 5 mins for Q&A before we wrap the livestream - but invite you to join us [on #model-mondays in Discord](https://aka.ms/model-mondays/discord) to continue discussions.  Plus, _Office Hours_ on Fridays for show-and-tell demos & watercooler chats.
+
+---
+
+## Season One 
+
+We're excited to kick off the first season on March 10. Check out the schedule below and **RSVP NOW** to scheduled sessions - then check back on this site for updated links to replays and resources!
+
+
+| Hands On With.. | Air Date | Recording | Resources | Spotlight|
 |:---|:---|:---|:---|:---|
-| #01 - GitHub Models | Mar 10, 2025 | In this kickoff episode, we’ll set the stage for season 1 by talking about the models we’ll spotlight. Then, we’ll do a deep dive into GitHub Models and show you how you can get started with exploring these hands-on today, with just a GitHub account! | [**RSVP OPEN**](https://developer.microsoft.com/reactor/events/25265/)| |
-| #02 - Reasoning Models| Mar 17, 2025 | In this episode, we’re joined by Jennifer Marsman as we dive into the world of reasoning models. We’ll get hands-on with the o1 series of models and more as we learn what these models can do, how they work, and how you can use them most effectively for your generative AI application needs. | [**RSVP OPEN**](https://developer.microsoft.com/en-us/reactor/events/25266/) | | 
-| #03 - Cohere Models | Mar 24, 2025 | _Coming soon_ | | |
-| #04 - Stability Models | Mar 31, 2025 |_Coming soon_ | | |
-| #05 - Mistral Models | Apr 07, 2025 |_Coming soon_ | | |
-| #06 - Synthetic Datasets | Apr 14, 2025 |_Coming soon_ | | |
-| #07 - Meta Models | Apr 21, 2025 | _Coming soon_ | | |
-| #08 - With Forecasting Models | Apr 28, 2025 | _Coming soon_ | | |
-| | | | | 
+| #01 - GitHub Models | Mar 10, 2025 | [**RSVP NOW**](https://developer.microsoft.com/reactor/events/25265/)| [Episode 01](./season-01/ep-01.md) | Model Marketplace |
+| #02 - Reasoning Models| Mar 17, 2025 | [**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [Episode 02](./season-01/ep-02.md)| OpenAI, DeepSeek |
+| #03 - Search & Retrieval Models | Mar 24, 2025 | _Coming soon_ |[Episode 03](./season-01/ep-03.md) | Cohere Rerank |
+| #04 - Visual Generative Models | Mar 31, 2025 |_Coming soon_ |[Episode 04](./season-01/ep-04.md) | Stable Diffusion |
+| #05 - Fine-Tuning Models | Apr 07, 2025 |_Coming soon_ |[Episode 05](./season-01/ep-05.md) | -- | 
+| #06 - Synthetic Datasets | Apr 14, 2025 |_Coming soon_ |[Episode 06](./season-01/ep-06.md) | -- |
+| #07 - Open Source Models | Apr 21, 2025 | _Coming soon_ |[Episode 07](./season-01/ep-07.md) | -- |
+| #08 - Forecasting Models | Apr 28, 2025 | _Coming soon_ |[Episode 08](./season-01/ep-08.md) | -- |
+| | | | |  |
 
 
 ---
