@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+
 ---
 
 # Build Your Model IQ!
@@ -17,7 +18,7 @@ Is the pace of AI model evolution leaving you feeling a bit overwhelmed? You are
 
 ---
 
-## Episode 1: Replay 🆕
+## Watch Last Episode 🆕
 
 Model Mondays is a weekly 30-minute livestream series that helps you keep track of the fast-paced growth of the AI models ecosystem in actionable ways. Every episode is structured in three parts:
 
