@@ -1,0 +1,9 @@
+{
+    "name": "Model Mondays",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ],
+    "postCreateCommand": "pip install -r /workspaces/model-mondays/requirements.txt"
+}

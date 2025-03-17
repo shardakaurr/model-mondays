@@ -1,0 +1,110 @@
+# Project information .........................................
+site_name: "Model Mondays"
+site_url: https://microsoft.github.io/model-mondays
+site_author: Nitya Narasimhan
+site_description: >-
+ Welcome to Model Mondays - a weekly 30-minute livestream series that helps you keep track of the fast-paced growth of the AI models ecosystem in actionable ways.
+
+# Repository ..................................................
+repo_name: microsoft/model-mondays
+repo_url: https://github.com/microsoft/model-mondays
+
+# Copyright ...................................................
+copyright: >
+  Copyright &copy; 2024 - present Microsoft
+
+# Navigation  ...............................................
+nav:
+  - Overview: index.md
+  - Season 01:
+      - 01 | GitHub Models : season-01/ep-01.md
+      - 02 | Reasoning Models : season-01/ep-02.md
+      - 03 | Search & Retrieval : season-01/ep-03.md
+      - 04 | Visual Generative AI : season-01/ep-04.md
+      - 05 | Fine-Tuning Models : season-01/ep-05.md
+      - 06 | Synthetic Datasets : season-01/ep-06.md
+      - 07 | Open Source Projects : season-01/ep-07.md
+      - 08 | Forecasting Models : season-01/ep-08.md
+
+
+# Configuration ...............................................
+theme:
+  name: material
+  font:
+    code: Roboto Mono  #Monospaced
+    text: Roboto       #Regular
+  logo: img/mm-flames.png
+  language: en
+
+  # Theme Modes ...............................................
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: black
+      accent: pink
+      toggle:
+        icon: material/brightness-2
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  # Theme Features ...............................................
+  features:
+    - navigation.instant
+    - navigation.expand             # sidebar collapsible sections open
+    - navigation.instant.progress   # load progress indicator
+    - navigation.tracking           # tracks anchor tags in URL
+    - navigation.tabs               # tabbed on desktop, single in mobile    
+    - navigation.tabs.sticky        # tabs stick when scrolling downtheme:
+    - navigation.path               # add breadcrumbs
+    - navigation.indexes            # default index.md in folder is section page
+    - navigation.top
+    - toc.follow
+    - navigation.footer
+    - content.code.copy             # allow copy-paste from codeblocks
+    - content.tabs.link             # Ensures site-wide switch to same tab name
+
+# Extras  ...............................................
+extra:
+  generator: false
+
+# Plugins  ...............................................
+plugins:
+  - search
+
+# Extensions  ...............................................
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      auto_title: true
+      linenums: true
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower

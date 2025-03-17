@@ -15,41 +15,40 @@ Welcome to Model Mondays - a weekly 30-minute livestream series that helps you k
 > [Join our Discord!](https://aka.ms/model-mondays/discord) <br/>
 > Model Mondays office hours will be held on Azure AI Discord every Friday 1:30pm-2:00pm EST. You can also join the #model-mondays channel for discussions at any time!
 
----
-
-<br/>
-
-![Banner](./img/model-mondays.png)
 
 ---
 
-## Show Format
+## Episode 1: Replay 🆕
 
-Every Model Mondays episode consists of a 30-minute livestream with 2 core segments:
+> **Click to watch the latest episode**
 
-- **Model Roundup** (5 min) - each episode starts with a 5-min recap of the top 5 model-related stories that caught our attention last week!
-- **Model Spotlight** (20 min) - then, we spend the next 20 minutes putting the spotlight on a specific model or model category to help you understand _why_ it matters, _when_ to use it, and _how_ to get started.
+[![Banner](./img/model-mondays.png)](https://youtu.be/dohvGc7eyqU?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
 
-We'll use the last 5 mins for Q&A before we wrap the livestream - but invite you to join us [on #model-mondays in Discord](https://aka.ms/model-mondays/discord) to continue discussions.  Plus, _Office Hours_ on Fridays for show-and-tell demos & watercooler chats.
+Model Mondays is a weekly 30-minute livestream series that helps you keep track of the fast-paced growth of the AI models ecosystem in actionable ways. Every episode is structured in three parts:
+
+- **Model Highlights** - We roundup a week's worth of news in 5 minutes!
+- **Model Spotlight** - We dive deeper into one featured model a week!
+- **Community Chat** - Join us for office hours on Discord!
+
 
 ---
 
-## Season One 
+## Season 1: Schedule
 
 > **Join us for Model Mondays every Monday at 10:30pm PST / 1:30pm EST. It's a weekly show where we round up the latest AI model news and put one model in the spotlight for a deeper dive. Let's Build our model IQ!**
 
 
-| Hands On With.. | Air Date | Recording | Resources | Spotlight|
-|:---|:---|:---|:---|:---|
-| #01 - GitHub Models | Mar 10, 2025 | [**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25265/)| [Episode 01](./season-01/ep-01.md) | Model Marketplace |
-| #02 - Reasoning Models| Mar 17, 2025 | [**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [Episode 02](./season-01/ep-02.md)| OpenAI, DeepSeek |
-| #03 - Search & Retrieval Models | Mar 24, 2025 |  [**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Episode 03](./season-01/ep-03.md) | Cohere Rerank |
-| #04 - Visual Generative Models | Mar 31, 2025 |[**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Episode 04](./season-01/ep-04.md) | Stable Diffusion |
-| #05 - Fine-Tuning + Models | Apr 07, 2025 |[**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Episode 05](./season-01/ep-05.md) | TBA | 
-| #06 - Synthetic Datasets + Models | Apr 14, 2025 |[**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25357/)  |[Episode 06](./season-01/ep-06.md) | TBA |
-| #07 - Open Source + Models | Apr 21, 2025 |[**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |[Episode 07](./season-01/ep-07.md) | TBA |
-| #08 - Forecasting + Models | Apr 28, 2025 |[**RSVP NOW**](https://developer.microsoft.com/en-us/reactor/events/25359/)  |[Episode 08](./season-01/ep-08.md) | TBA |
-| | | | |  |
+| Episode Page | Date | Video | Details | Resources | Office Hours |
+|:---|:---|:---|:---|:---|:---|
+| #01 - GitHub Models | [Mar 10](https://developer.microsoft.com/en-us/reactor/events/25265/) | [**Watch Now**](https://youtu.be/dohvGc7eyqU)| [GitHub Models](./season-01/ep-01.md) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025) · Code | [Mar 14](https://aka.ms/model-mondays/chat) |
+| #02 - Reasoning Models| Mar 17 | [**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [OpenAI, DeepSeek](./season-01/ep-02.md)| - | [Mar 21](https://aka.ms/model-mondays/chat) |
+| #03 - Search & Retrieval | Mar 24 |  [**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Cohere Rerank](./season-01/ep-03.md) | - | [Mar 28](https://aka.ms/model-mondays/chat) |
+| #04 - Visual Generative AI | Mar 31 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](./season-01/ep-04.md) |  - | [Apr 03](https://aka.ms/model-mondays/chat) |
+| #05 - Fine-Tuning Models | Apr 07 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[TBA](./season-01/ep-05.md) | - |  [Apr 10](https://aka.ms/model-mondays/chat) |
+| #06 - Synthetic Datasets | Apr 14 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25357/)  |[TBA](./season-01/ep-06.md) | - | [Apr 17](https://aka.ms/model-mondays/chat) |
+| #07 - Open Source Projects | Apr 21 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |[TBA](./season-01/ep-07.md) | - | [Apr 21](https://aka.ms/model-mondays/chat) |
+| #08 - Forecasting Models | Apr 28 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25359/)  |[Nixtla TimeGEN](./season-01/ep-08.md) | - | [Apr 28](https://aka.ms/model-mondays/chat) |
+
 
 
 ---
