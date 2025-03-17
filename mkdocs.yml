@@ -11,7 +11,12 @@ repo_url: https://github.com/microsoft/model-mondays
 
 # Copyright ...................................................
 copyright: >
-  Copyright &copy; 2024 - present Microsoft
+copyright: >
+  &copy; 2025 Microsoft &nbsp;|&nbsp;
+  <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy </a>&nbsp;|&nbsp;
+  <a href="https://go.microsoft.com/fwlink/?LinkId=2259814">Consumer Health Privacy </a>&nbsp;|&nbsp;
+  <a href="https://go.microsoft.com/fwlink/?LinkID=206977">Terms of Use </a>&nbsp;|&nbsp;
+  <a href="https://www.microsoft.com/trademarks">Trademarks </a>
 
 # Navigation  ...............................................
 nav:
