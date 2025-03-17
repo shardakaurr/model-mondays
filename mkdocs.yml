@@ -11,25 +11,11 @@ repo_url: https://github.com/microsoft/model-mondays
 
 # Copyright ...................................................
 copyright: >
-copyright: >
   &copy; 2025 Microsoft &nbsp;|&nbsp;
   <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy </a>&nbsp;|&nbsp;
   <a href="https://go.microsoft.com/fwlink/?LinkId=2259814">Consumer Health Privacy </a>&nbsp;|&nbsp;
   <a href="https://go.microsoft.com/fwlink/?LinkID=206977">Terms of Use </a>&nbsp;|&nbsp;
   <a href="https://www.microsoft.com/trademarks">Trademarks </a>
-
-# Navigation  ...............................................
-nav:
-  - Overview: index.md
-  - Season 01:
-      - 01 | GitHub Models : season-01/ep-01.md
-      - 02 | Reasoning Models : season-01/ep-02.md
-      - 03 | Search & Retrieval : season-01/ep-03.md
-      - 04 | Visual Generative AI : season-01/ep-04.md
-      - 05 | Fine-Tuning Models : season-01/ep-05.md
-      - 06 | Synthetic Datasets : season-01/ep-06.md
-      - 07 | Open Source Projects : season-01/ep-07.md
-      - 08 | Forecasting Models : season-01/ep-08.md
 
 
 # Configuration ...............................................
@@ -74,7 +60,7 @@ theme:
     - navigation.tabs               # tabbed on desktop, single in mobile    
     - navigation.tabs.sticky        # tabs stick when scrolling downtheme:
     - navigation.path               # add breadcrumbs
-    - navigation.indexes            # default index.md in folder is section page
+    - navigation.indexes            # index.md is default page for section
     - navigation.top
     - toc.follow
     - navigation.footer
@@ -88,6 +74,12 @@ extra:
 # Plugins  ...............................................
 plugins:
   - search
+  - blog:
+      categories_allowed:
+        - Recaps
+        - Tutorials
+        - Season-01
+  - tags
 
 # Extensions  ...............................................
 markdown_extensions:
@@ -113,3 +105,20 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+
+
+# Navigation  ...............................................
+nav:
+  - Overview: index.md
+  - Season 01:
+    - 01 | GitHub Models : season-01/ep-01.md
+    - 02 | Reasoning Models : season-01/ep-02.md
+    - 03 | Search & Retrieval : season-01/ep-03.md
+    - 04 | Visual Generative AI : season-01/ep-04.md
+    - 05 | Fine-Tuning Models : season-01/ep-05.md
+    - 06 | Synthetic Datasets : season-01/ep-06.md
+    - 07 | Open Source Projects : season-01/ep-07.md
+    - 08 | Forecasting Models : season-01/ep-08.md
+  - Blog:
+    - blog/index.md
+    - Tags: blog/tags.md
