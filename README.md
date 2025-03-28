@@ -1,71 +1,77 @@
 
 # Model Mondays: Build Your Model IQ
 
-Welcome to Model Mondays - a weekly 30-minute livestream series that helps you keep track of the fast-paced growth of the AI models ecosystem in actionable ways.
+Model Mondays is a weekly 30-min livestream (on Mondays) with an AMA session (on Fridays) to help you keep up with the rapid pace of innovation in AI models.
 
-- **Model Roundup** - Catch up on a week's worth of model news in 5 minutes
-- **Model Spotlight** - Get a deep dive into one featured model each week
-- **Community Chat** - Bring your questions and insights to office hours on Discord!
+- **Highlights** · a 5-min recap of top model news from the last week.
+- **Spotlight** · a 15-min deep dive into a single model, with an expert.
+- **Community** · a 30-min AMA for interactive QA with experts, on Discord.
 
-> [!IMPORTANT]  
-> [Register here and join us live](https://aka.ms/model-mondays/RSVP)! <br/>
-> Model Mondays will be livestreamed every Monday from 1:30pm-2:00pm EST on Microsoft Reactor! Season 1 kicks off on March 10 with 8 episodes planned for the first run. 
+Join us, and take action to build your model IQ one week at a time!
 
-> [!IMPORTANT]  
-> [Join our Discord!](https://aka.ms/model-mondays/discord) <br/>
-> Model Mondays office hours will be held on Azure AI Discord every Friday 1:30pm-2:00pm EST. You can also join the #model-mondays channel for discussions at any time!
+<br/>
 
 
----
+## New Episode · Mar 31, 2025
 
+- **[Click here](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL) to register for livestream on Monday, Mar 31**
+- **[Click here](https://aka.ms/model-mondays/chat) to register for the AMA on Friday, Apr 04**
 
-## Episode 03: Upcoming Live 🆕
+[![Banner](./docs/season-01/img/S1E4-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
 
-> **[Click here](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL) to view the livestream on Monday, Mar 24**
-
-> **[Click here](https://aka.ms/model-mondays/chat) to join us for a follow-up AMA on Friday, Mar 28**
-
-[![Banner](./docs/season-01/img/S1E3-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
-
-
----
-
-## Episode 02: Watch Recording
-
-Model Mondays is a weekly 30-minute livestream series that helps you keep track of the fast-paced growth of the AI models ecosystem in actionable ways. Every episode is structured in three parts:
-
-- **Model Highlights** - We roundup a week's worth of news in 5 minutes!
-- **Model Spotlight** - We dive deeper into one featured model a week!
-- **Community Chat** - Join us for office hours on Discord!
-
-> **[Click here](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL) to view a recording from the last episode**
-
-[![Banner](./docs/season-01/img/S1E2-spotlight.png)](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
-
-
-
----
+<br/>
 
 ## Season 1: Schedule
 
-> **Join us for Model Mondays every Monday at 10:30pm PST / 1:30pm EST. It's a weekly show where we round up the latest AI model news and put one model in the spotlight for a deeper dive. Let's Build our model IQ!**
+> [!IMPORTANT]  
+> 1. [Join our Discord](https://aka.ms/model-mondays/discord) · Watch the #model-mondays channel for updates!
+> 2. [Register for Livestream](https://aka.ms/model-mondays/RSVP) · Watch live every Monday @1:30pm ET.
+> 3. [Register for AMA](https://aka.ms/model-mondays/chat) · Join us for interactive QA every Friday @1:30pm ET.
 
-
-| Episode Page | Date | Video | Details | Resources | Office Hours |
+| Episode | Live | Video | Details Page | Resources | AMA |
 |:---|:---|:---|:---|:---|:---|
-| #01 - GitHub Models | [Mar 10](https://developer.microsoft.com/en-us/reactor/events/25265/) | [**Watch Now**](https://youtu.be/dohvGc7eyqU)| [GitHub Models](./docs/season-01/ep-01.md) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025) · Code | [Mar 14](https://aka.ms/model-mondays/chat) |
-| #02 - Reasoning Models| Mar 17 | [**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [OpenAI, DeepSeek](./docs/season-01/ep-02.md)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models) · [Code](./labs/season-01/reasoning-models/README.md) | [Mar 21](https://aka.ms/model-mondays/chat) |
-| #03 - Search & Retrieval | Mar 24 |  [**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Cohere Rerank](./docs/season-01/ep-03.md) | PDF · Code | [Mar 28](https://aka.ms/model-mondays/chat) |
-| #04 - Visual Generative AI | Mar 31 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](./docs/season-01/ep-04.md) |  - | [Apr 03](https://aka.ms/model-mondays/chat) |
-| #05 - Fine-Tuning Models | Apr 07 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[TBA](./docs/season-01/ep-05.md) | - |  [Apr 10](https://aka.ms/model-mondays/chat) |
-| #06 - Synthetic Datasets | Apr 14 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25357/)  |[TBA](./docs/season-01/ep-06.md) | - | [Apr 17](https://aka.ms/model-mondays/chat) |
-| #07 - Open Source Projects | Apr 21 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |[TBA](./docs/season-01/ep-07.md) | - | [Apr 21](https://aka.ms/model-mondays/chat) |
-| #08 - Forecasting Models | Apr 28 |[**RSVP Now**](https://developer.microsoft.com/en-us/reactor/events/25359/)  |[Nixtla TimeGEN](./docs/season-01/ep-08.md) | - | [Apr 28](https://aka.ms/model-mondays/chat) |
+| E01 · GitHub Models | Mar 10 | [**Replay**](https://developer.microsoft.com/reactor/events/25265/)| [GitHub Models](./docs/season-01/ep-01.md) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025)  | Mar 14  |
+| E02 ·  Reasoning Models| Mar 17 | [**Replay**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [OpenAI, DeepSeek](./docs/season-01/ep-02.md)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models) · [Code](./labs/season-01/reasoning-models/README.md) | Mar 21 |
+| E03 ·  Search + Retrieval | Mar 24 |  [**Replay**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Cohere Rerank](./docs/season-01/ep-03.md) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e3-hands-on-with-search-and-retrieval-models)  | Mar 28 |
+| E04 ·  Visual + Generative | Mar 31 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](./docs/season-01/ep-04.md) |  - | [Apr 03](https://aka.ms/model-mondays/chat) 🎙️ |
+| E05 ·  Fine-Tuning | Apr 07 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](./docs/season-01/ep-05.md) | - |  Apr 10 |
+| E06 ·  Synthetic Datasets | Apr 14 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25357/)  |[TBA](./docs/season-01/ep-06.md) | - |Apr 17 |
+| E07 ·  Open Source | Apr 21 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |[TBA](./docs/season-01/ep-07.md) | - | Apr 21 |
+| E08 ·  Forecasting Models | Apr 28 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25359/)  |[Nixtla TimeGEN](./docs/season-01/ep-08.md) | - | Apr 28 |
 
+<br/>
 
+## S1E03: Cohere Rerank v3.5
 
----
+> **[Click here](https://www.youtube.com/watch?v=Qs4fdy17b40L) to watch the replay**
 
+In this episode, we are joined by Neel Gokhale from Cohere. Find out how reranking improves relevance of search results for Retrieval Augmented Generation, and see a hands-on demo with the Cohere Rerank v3.5 model.
+
+[![Banner](./docs/season-01/img/S1E3-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
+
+<br/>
+
+## S1E02: OpenAI o1 series
+
+> **[Click here](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL) to watch the replay**
+
+In this episode, we are joined by Jennifer Marsman from Microsoft. Find out what reasoning models are, and why they are taking the AI world by storm. See a hands-on demo with the OpenAI o1 model and a real-world use case.
+
+[![Banner](./docs/season-01/img/S1E2-spotlight.png)](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
+
+<br/>
+
+## S1E01: GitHub Models
+
+> **[Click here](https://www.youtube.com/watch?v=dohvGc7eyqU&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=3&pp=iAQB) to watch the replay**
+
+In this episode, we are joined by Nitya Narasimhan from Microsoft. Find out what GitHub Models are and how they can help you jumpstart your generative AI learning journey for free, with just your GitHub account. Make GitHub Models your AI learning sandbox!
+
+[![Banner](./docs/season-01/img/S1E1-spotlight.png)](https://www.youtube.com/watch?v=dohvGc7eyqU&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=3&pp=iAQB)
+
+<br/>
+
+<br/>
 
 ## Contributing
 
