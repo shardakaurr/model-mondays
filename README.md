@@ -29,16 +29,17 @@ Join us, and take action to build your model IQ one week at a time!
 > 2. [Register for Livestream](https://aka.ms/model-mondays/RSVP) · Watch live every Monday @1:30pm ET.
 > 3. [Register for AMA](https://aka.ms/model-mondays/chat) · Join us for interactive QA every Friday @1:30pm ET.
 
-| Episode | Live | Video | Details Page | Resources | AMA |
-|:---|:---|:---|:---|:---|:---|
-| E01 · GitHub Models | Mar 10 | [**Replay**](https://developer.microsoft.com/reactor/events/25265/)| [GitHub Models](./docs/season-01/ep-01.md) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025)  | Mar 14  |
-| E02 ·  Reasoning Models| Mar 17 | [**Replay**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [OpenAI, DeepSeek](./docs/season-01/ep-02.md)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models) · [Code](./labs/season-01/reasoning-models/README.md) | Mar 21 |
-| E03 ·  Search + Retrieval | Mar 24 |  [**Replay**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Cohere Rerank](./docs/season-01/ep-03.md) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e3-hands-on-with-search-and-retrieval-models)  | Mar 28 |
-| E04 ·  Visual + Generative | Mar 31 |[**Replay**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](./docs/season-01/ep-04.md) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 03 |
-| E05 ·  Fine-Tuning | Apr 07 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](./docs/season-01/ep-05.md) | - |  [Apr 10](https://aka.ms/model-mondays/chat) 🎙️  |
-| E06 ·  Local AI Development | Apr 14 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25357/)  |[AI Toolkit (AITK)](./docs/season-01/ep-06.md) | - |Apr 17 |
-| E07 ·  Open Source | Apr 21 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |[TBA](./docs/season-01/ep-07.md) | - | Apr 21 |
-| E08 ·  Forecasting Models | Apr 28 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25359/)  |[Nixtla TimeGEN](./docs/season-01/ep-08.md) | - | Apr 28 |
+
+| Episode | Stream | Video | Blog | Slides | AMA | Code |
+|:---|:---|:---|:---|:---|:---|:---|
+| E01 · GitHub Models | Mar 10 | [**Play ▶️**](https://developer.microsoft.com/reactor/events/25265/)| [GitHub Models](https://techcommunity.microsoft.com/blog/machinelearningblog/introducing-model-mondays-%E2%80%93-your-ai-model-power-up/4390773) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025)  | Mar 14  |
+| E02 ·  Reasoning Models| Mar 17 | [**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [OpenAI, DeepSeek](./docs/season-01/ep-02.md)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models) | Mar 21 | [Sample](./labs/season-01/reasoning-models/README.md) |
+| E03 ·  Search + Retrieval | Mar 24 |  [**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Cohere Rerank](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-why-rerank-models-are-the-secret-sauce-of-high-quality-search/4396032) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e3-hands-on-with-search-and-retrieval-models)  | Mar 28 |
+| E04 ·  Visual + Generative | Mar 31 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-lights-prompts-action/4398576) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 03 |
+| E05 ·  Fine-Tuning | Apr 07 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-teaching-your-model-new-tricks-with-fine-tuning/4401129) | - | [Apr 10](https://aka.ms/model-mondays/chat) ‼️| |
+| E06 ·  Local AI Development | Apr 14 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25357/)  | AI Toolkit (AITK) | - |Apr 17 |
+| E07 ·  Open Source | Apr 21 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |TBA| - | Apr 21 |
+| E08 ·  Forecasting Models | Apr 28 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25359/)  | Nixtla TimeGEN | - | Apr 28 |
 | | |
 
 <br/>
