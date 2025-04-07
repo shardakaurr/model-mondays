@@ -12,12 +12,13 @@ Join us, and take action to build your model IQ one week at a time!
 <br/>
 
 
-## New Episode · Mar 31, 2025
+## New Episode · Apr 07, 2025
 
-- **[Click here](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL) to register for livestream on Monday, Mar 31**
-- **[Click here](https://aka.ms/model-mondays/chat) to register for the AMA on Friday, Apr 04**
+- **[Click here](https://developer.microsoft.com/en-us/reactor/events/25356/) to register for livestream on Monday, Apr 07**
+- **[Click here](https://aka.ms/model-mondays/chat) to register for the AMA on Friday, Apr 11**
+- **[Click here](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-teaching-your-model-new-tricks-with-fine-tuning/4401129)** to read how fine tuning can teach your model new tricks.
 
-[![Banner](./docs/season-01/img/S1E4-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
+[![Banner](./docs/season-01/img/S1E5-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
 
 <br/>
 
@@ -33,11 +34,22 @@ Join us, and take action to build your model IQ one week at a time!
 | E01 · GitHub Models | Mar 10 | [**Replay**](https://developer.microsoft.com/reactor/events/25265/)| [GitHub Models](./docs/season-01/ep-01.md) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025)  | Mar 14  |
 | E02 ·  Reasoning Models| Mar 17 | [**Replay**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [OpenAI, DeepSeek](./docs/season-01/ep-02.md)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models) · [Code](./labs/season-01/reasoning-models/README.md) | Mar 21 |
 | E03 ·  Search + Retrieval | Mar 24 |  [**Replay**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Cohere Rerank](./docs/season-01/ep-03.md) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e3-hands-on-with-search-and-retrieval-models)  | Mar 28 |
-| E04 ·  Visual + Generative | Mar 31 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](./docs/season-01/ep-04.md) |  - | [Apr 03](https://aka.ms/model-mondays/chat) 🎙️ |
-| E05 ·  Fine-Tuning | Apr 07 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](./docs/season-01/ep-05.md) | - |  Apr 10 |
-| E06 ·  Synthetic Datasets | Apr 14 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25357/)  |[TBA](./docs/season-01/ep-06.md) | - |Apr 17 |
+| E04 ·  Visual + Generative | Mar 31 |[**Replay**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](./docs/season-01/ep-04.md) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 03 |
+| E05 ·  Fine-Tuning | Apr 07 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](./docs/season-01/ep-05.md) | - |  [Apr 10](https://aka.ms/model-mondays/chat) 🎙️  |
+| E06 ·  Local AI Development | Apr 14 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25357/)  |[AI Toolkit (AITK)](./docs/season-01/ep-06.md) | - |Apr 17 |
 | E07 ·  Open Source | Apr 21 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |[TBA](./docs/season-01/ep-07.md) | - | Apr 21 |
 | E08 ·  Forecasting Models | Apr 28 |[**RSVP 🪧**](https://developer.microsoft.com/en-us/reactor/events/25359/)  |[Nixtla TimeGEN](./docs/season-01/ep-08.md) | - | Apr 28 |
+| | |
+
+<br/>
+
+## S1E04: Stability AI Models
+
+> **[Click here](https://www.youtube.com/watch?v=kDR09m_cUKs) to watch the replay**
+
+In this episode, we are joined by Ken Hoge from Stability AI. Find out how their models enable visual generative AI applicatons with text-to-image and image-to-image capabiltiies, for delivering high-resolution and representative imagery.
+
+[![Banner](./docs/season-01/img/S1E4-spotlight.png)](https://developer.microsoft.com/en-us/reactor/events/25355/)
 
 <br/>
 
