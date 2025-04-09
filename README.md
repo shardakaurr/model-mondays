@@ -56,7 +56,7 @@ Join us, and take action to build your model IQ one week at a time!
 | E04 ·  Visual + Generative | Mar 31 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-lights-prompts-action/4398576) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 03 |
 | E05 ·  Fine-Tuning | Apr 07 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-teaching-your-model-new-tricks-with-fine-tuning/4401129) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-fine-tuning-models) | [Apr 10](https://aka.ms/model-mondays/chat) ‼️| |
 | E06 ·  Local AI Development | Apr 14 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25357/)  | AI Toolkit (AITK) | - |Apr 17 |
-| E07 ·  Open Source | Apr 21 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |TBA| - | Apr 21 |
+| E07 ·  Open Source & AI | Apr 21 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |Llama Stack (Meta)| - | Apr 21 |
 | E08 ·  Forecasting Models | Apr 28 |[**RSVP ‼️**](https://developer.microsoft.com/en-us/reactor/events/25359/)  | Nixtla TimeGEN | - | Apr 28 |
 | | |
 
