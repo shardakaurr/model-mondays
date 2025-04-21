@@ -13,17 +13,16 @@ Join us, and take action to build your model IQ one week at a time!
 
 
 
-## 🗓️ Register Now · S1E7· Apr 14, 2025
+## 🗓️ Register Now · S1E7· Apr 21, 2025
 
-> In this episode, we’ll go hands on with local AI development by putting the spotlight on the AI Toolkit for Visual Studio Code. Join us as we speak to Rong Lu (Principal PM, Microsoft) to learn how this tool helps developers build intelligent apps using generative AI models deployed locally or in the cloud -with support for development, testing, fine-tuning and more.
+> In this episode, we’ll explore the intersection of open-source with AI model and application development with a spotlight on the Meta Llama 4 herd of models.
 
 
-- **[Click here](https://developer.microsoft.com/en-us/reactor/events/25357/) to register for the livestream · Monday, Apr 14**
+- **[Click here](https://developer.microsoft.com/en-us/reactor/events/25357/) to register for the livestream · Monday, Apr 21**
 - **[Click here](https://aka.ms/model-mondays/discord) to join Discord · Watch the #model-mondays channel for updates**
-- **[Click here](https://techcommunity.microsoft.com/blog/MachineLearningBlog/model-mondays-bringing-ai-home-with-local-development/4403619) to read the blog · Learn why local development matters**
-- **[Click here](https://code.visualstudio.com/docs/intelligentapps/overview) for the AI Toolkit docs · Try it out!**
+- **[Click here](https://techcommunity.microsoft.com/blog/MachineLearningBlog/model-mondays-bringing-ai-home-with-local-development/4403619) to learn about Llama 4 · Understand the core capabilities of this herd**
 
-[![Banner](./docs/season-01/img/S1E6-spotlight.png)](https://aka.ms/model-mondays/playlist)
+[![Banner](./docs/season-01/img/S1E7-spotlight.png)](https://aka.ms/model-mondays/playlist)
 
 <br/> 
 
@@ -40,16 +39,27 @@ Join us, and take action to build your model IQ one week at a time!
 | E01 · GitHub Models | Mar 10 | [**Play ▶️**](https://developer.microsoft.com/reactor/events/25265/)| [GitHub Models](https://techcommunity.microsoft.com/blog/machinelearningblog/introducing-model-mondays-%E2%80%93-your-ai-model-power-up/4390773) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025)  | Mar 14  |
 | E02 ·  Reasoning Models| Mar 17 | [**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [OpenAI, DeepSeek](./docs/season-01/ep-02.md)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models) | Mar 21 | [Sample](./labs/season-01/reasoning-models/README.md) |
 | E03 ·  Search + Retrieval | Mar 24 |  [**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Cohere Rerank](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-why-rerank-models-are-the-secret-sauce-of-high-quality-search/4396032) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e3-hands-on-with-search-and-retrieval-models)  | Mar 28 |
-| E04 ·  Visual + Generative | Mar 31 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-lights-prompts-action/4398576) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 03 |
-| E05 ·  Fine-Tuning | Apr 07 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-teaching-your-model-new-tricks-with-fine-tuning/4401129) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-fine-tuning-models) | Apr 10| |
-| E06 ·  Local AI Development | Apr 14 |[**RSVP 🚀**](https://developer.microsoft.com/en-us/reactor/events/25357/)  | AI Toolkit (AITK) | - | [Apr 17](https://aka.ms/model-mondays/chat)‼️ |
-| E07 ·  Open Source & AI | Apr 21 |[**RSVP 🚀**](https://developer.microsoft.com/en-us/reactor/events/25358/)  |Llama Stack (Meta)| - | Apr 21 |
+| E04 ·  Visual + Generative | Mar 31 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-lights-prompts-action/4398576) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 04 |
+| E05 ·  Fine-Tuning | Apr 07 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-teaching-your-model-new-tricks-with-fine-tuning/4401129) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-fine-tuning-models) | Apr 11| |
+| E06 ·  Local AI Development | Apr 14 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25357/)  | [AI Toolkit (AITK)](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-bringing-ai-home-with-local-development/4403619) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 18 |
+| E07 ·  Open Source & AI | Apr 21 |[**RSVP 🚀**](https://developer.microsoft.com/en-us/reactor/events/25358/)  | Llama 4 (Meta)| - |[Apr 25](https://aka.ms/model-mondays/chat)‼️|
 | E08 ·  Forecasting Models | Apr 28 |[**RSVP 🚀**](https://developer.microsoft.com/en-us/reactor/events/25359/)  | Nixtla TimeGEN | - | Apr 28 |
 | | |
 
 <br/>
 
-## S1E6 · Fine-Tuning Models  
+## S1E06 ·Local AI Development
+
+> **[Click here](https://www.youtube.com/watch?v=iCPl693s3dA) to watch the replay**
+
+> In this episode, we’ll go hands on with local AI development by putting the spotlight on the AI Toolkit for Visual Studio Code. Join us as we speak to Rong Lu (Principal PM, Microsoft) to learn how this tool helps developers build intelligent apps using generative AI models deployed locally or in the cloud -with support for development, testing, fine-tuning and more.
+
+[![Banner](./docs/season-01/img/S1E6-spotlight.png)](https://www.youtube.com/watch?v=MgIfvEEZN7o)
+
+
+<br/>
+
+## S1E05 · Fine-Tuning Models  
 
 > **[Click here][(https://www.youtube.com/watch?v=iCPl693s3dA) to watch the replay**
 
