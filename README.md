@@ -13,16 +13,14 @@ Join us, and take action to build your model IQ one week at a time!
 
 
 
-## 🗓️ Register Now · S1E7· Apr 21, 2025
+## 🗓️ Register Now · S1E8· Apr 28, 2025
 
-> In this episode, we’ll explore the intersection of open-source with AI model and application development with a spotlight on the Meta Llama 4 herd of models.
+> In this episode, we’ll speak to Khuyen Tran (Developer Advocate, Nixtla) and put the spotlight on forecasting models (like Nixtal TimeGEN-1) that are trained on time-series data and applicable to scenarios in retail, healthcare, finance and more.
 
+- **[Click here](https://developer.microsoft.com/en-us/reactor/events/25359/) to register for the livestream · Monday, Apr 28**
+- **[Click here](https://aka.ms/model-mondays/discord) to register for the AMA · Friday, May 02s**
 
-- **[Click here](https://developer.microsoft.com/en-us/reactor/events/25357/) to register for the livestream · Monday, Apr 21**
-- **[Click here](https://aka.ms/model-mondays/discord) to join Discord · Watch the #model-mondays channel for updates**
-- **[Click here](https://techcommunity.microsoft.com/blog/MachineLearningBlog/model-mondays-bringing-ai-home-with-local-development/4403619) to learn about Llama 4 · Understand the core capabilities of this herd**
-
-[![Banner](./docs/season-01/img/S1E7-spotlight.png)](https://aka.ms/model-mondays/playlist)
+[![Banner](./docs/season-01/img/S1E8-spotlight.png)](https://aka.ms/model-mondays/playlist)
 
 <br/> 
 
@@ -37,16 +35,28 @@ Join us, and take action to build your model IQ one week at a time!
 | Episode | Stream | Video | Blog | Slides | AMA | Code |
 |:---|:---|:---|:---|:---|:---|:---|
 | E01 · GitHub Models | Mar 10 | [**Play ▶️**](https://developer.microsoft.com/reactor/events/25265/)| [GitHub Models](https://techcommunity.microsoft.com/blog/machinelearningblog/introducing-model-mondays-%E2%80%93-your-ai-model-power-up/4390773) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e1-mar-10-2025)  | Mar 14  |
-| E02 ·  Reasoning Models| Mar 17 | [**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25266/) | [OpenAI, DeepSeek](./docs/season-01/ep-02.md)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models) | Mar 21 | [Sample](./labs/season-01/reasoning-models/README.md) |
+| E02 ·  Reasoning Models| Mar 17 | [**Play ▶️**](https://developer.microsoft.com/reactor/events/25266/) | [OpenAI, DeepSeek](./docs/season-01/ep-02.md)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e2-hands-on-with-reasoning-models) | Mar 21 | [Sample](./labs/season-01/reasoning-models/README.md) |
 | E03 ·  Search + Retrieval | Mar 24 |  [**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25354/) |[Cohere Rerank](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-why-rerank-models-are-the-secret-sauce-of-high-quality-search/4396032) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e3-hands-on-with-search-and-retrieval-models)  | Mar 28 |
-| E04 ·  Visual + Generative | Mar 31 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25355/) |[Stable Diffusion](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-lights-prompts-action/4398576) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 04 |
-| E05 ·  Fine-Tuning | Apr 07 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25356/)  |[Mistral](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-teaching-your-model-new-tricks-with-fine-tuning/4401129) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-fine-tuning-models) | Apr 11| |
-| E06 ·  Local AI Development | Apr 14 |[**Play ▶️**](https://developer.microsoft.com/en-us/reactor/events/25357/)  | [AI Toolkit (AITK)](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-bringing-ai-home-with-local-development/4403619) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e6-hands-on-with-local-ai-development) | Apr 18 |
-| E07 ·  Open Source & AI | Apr 21 |[**RSVP 🚀**](https://developer.microsoft.com/en-us/reactor/events/25358/)  | [Llama 4 (Meta)](https://techcommunity.microsoft.com/blog/aiplatformblog/expanding-the-llama-4-herd-new-models-now-available-on-azure-ai-foundry/4403609)| - |[Apr 25](https://aka.ms/model-mondays/chat)‼️|
-| E08 ·  Forecasting Models | Apr 28 |[**RSVP 🚀**](https://developer.microsoft.com/en-us/reactor/events/25359/)  | Nixtla TimeGEN | - | Apr 28 |
+| E04 ·  Visual + Generative | Mar 31 |[**Play ▶️**](https://developer.microsoft.com/reactor/events/25355/) |[Stable Diffusion](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-lights-prompts-action/4398576) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-visual-generative-ai) | Apr 04 |
+| E05 ·  Fine-Tuning | Apr 07 |[**Play ▶️**](https://developer.microsoft.com/reactor/events/25356/)  |[Mistral](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-teaching-your-model-new-tricks-with-fine-tuning/4401129) | [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e4-hands-on-with-fine-tuning-models) | Apr 11| |
+| E06 ·  Local AI Development | Apr 14 |[**Play ▶️**](https://developer.microsoft.com/reactor/events/25357/)  | [AI Toolkit (AITK)](https://techcommunity.microsoft.com/blog/machinelearningblog/model-mondays-bringing-ai-home-with-local-development/4403619) |  [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e6-hands-on-with-local-ai-development) | Apr 18 |
+| E07 ·  Open Source & AI | Apr 21 |[**Play ▶️**](https://developer.microsoft.com/reactor/events/25358/)  | [Llama 4 (Meta)](https://techcommunity.microsoft.com/blog/aiplatformblog/expanding-the-llama-4-herd-new-models-now-available-on-azure-ai-foundry/4403609)| [PDF](https://speakerdeck.com/nitya/model-mondays-s1-e7-hands-on-with-open-source-models) | [Apr 25]([https://aka.ms/model-mondays/chat](https://discord.gg/azureaifoundry?event=1364638932934987867))‼️|
+| E08 ·  Forecasting Models | Apr 28 |[**RSVP**](https://developer.microsoft.com/reactor/events/25359/)‼️  | Nixtla TimeGEN | - | [May 02](https://discord.gg/azureaifoundry?event=1364639538961453147)‼️ |
 | | |
 
 <br/>
+
+## S1E7· Open Source Models
+
+> **[Click here](https://www.youtube.com/watch?v=2E842zOGIyI) to watch the replay**
+
+> **[Click here](https://discord.gg/azureaifoundry?event=1364638932934987867) to join the AMA on Apr 25 (1:30pm ET)**
+
+> In this episode, we’ll explore the intersection of open-source with AI model and application development with a spotlight on the Meta Llama 4 herd of models.
+
+[![Banner](./docs/season-01/img/S1E7-spotlight.png)](https://aka.ms/model-mondays/playlist)
+
+<br/> 
 
 ## S1E06 ·Local AI Development
 
