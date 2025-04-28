@@ -18,7 +18,7 @@ Join us, and take action to build your model IQ one week at a time!
 > In this episode, we’ll speak to Khuyen Tran (Developer Advocate, Nixtla) and put the spotlight on forecasting models (like Nixtal TimeGEN-1) that are trained on time-series data and applicable to scenarios in retail, healthcare, finance and more.
 
 - **[Click here](https://developer.microsoft.com/en-us/reactor/events/25359/) to register for the livestream · Monday, Apr 28**
-- **[Click here](https://aka.ms/model-mondays/discord) to register for the AMA · Friday, May 02s**
+- **[Click here](https://aka.ms/model-mondays/chat) to register for the AMA · Friday, May 02s**
 
 [![Banner](./docs/season-01/img/S1E8-spotlight.png)](https://aka.ms/model-mondays/playlist)
 
