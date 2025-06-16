@@ -1,5 +1,6 @@
-
 # Model Mondays: Build Your Model IQ
+
+![Model Mondays](./img/model-mondays-banner.png)
 
 Model Mondays is a weekly 30-min livestream (on Mondays) with an AMA session (on Fridays) to help you keep up with the rapid pace of innovation in AI models.
 
@@ -7,34 +8,83 @@ Model Mondays is a weekly 30-min livestream (on Mondays) with an AMA session (on
 - **Spotlight** · a 15-min deep dive into a single model, with an expert.
 - **Community** · a 30-min AMA for interactive QA with experts, on Discord.
 
-Join us, and take these actions to build your model IQ one week at a time!
-
-> [!IMPORTANT]  
-> 1. [🎙️· Join Discord Community](https://aka.ms/model-mondays/discord) · AMA every Fri @1:30pm ET 
-> 1. [📺 · Register for Livestream](https://aka.ms/model-mondays/RSVP) · Live every Monday @1:30pm ET 
-> 1. [📋 · Explore the Series](https://aka.ms/model-mondays/series) · Watch replays from Season 1
-> 1. [🧰 · Bookmark the Collection](https://aka.ms/model-mondays/collection) · Track model cards and samples
+---
 
 <br/> 
 
-## 👉🏽👉🏽 Season 2: Kicks off Monday, Jun 16
+## 👉🏽👉🏽 Join The Community
+
+Great devs don't build alone! In a fast-pased developer ecosystem, there's no time to hunt for help. That's why we have the Azure AI Developer Community. Join us today and let's journey together!
+
+1. [Join the Discord](https://aka.ms/model-mondays/discord) - for real-time chats, events & learning
+1. [Explore the Forum](https://aka.ms/model-mondays/forum) - for AMA recaps, Q&A, and help!
+
+![CTA](./img/3-cta.png)
+
+---
+
+
+## 👉🏽👉🏽 Season 2: Live on Mondays, AMA on Fridays!
+
+Season 2 will be a 12-episode series with our focus now expanding to models and model-related tooling - with a focus on both industry (adoption) and research (innovation). Here's a sneak peek at the topics we have planned! 
+
+![Season 2](./docs/season-02/img/S02-Agenda.png)
 
 > [!IMPORTANT]  
-> We have a packed season planned with 12 episodes to start. The first 3 episodes are now open for registration. Check back regularly for updates on new events, topics, speakers and content!
-
-| Episode | Topic  | Date | Register | Descrption | Speaker(s)| 
-|:---|:---|:---|:---|:---|:---|
-| E01 | Advanced Reasoning | Jun 16 | [RSVP](https://developer.microsoft.com/en-us/reactor/events/25905/) | Learn advanced techniques to improve AI's reasoning and problem-solving skills, enabling smarter and more efficient decision-making. | Marlene Mhangami | 
-| E02 |  Model Context Protocol| Jun 23 | [RSVP](https://developer.microsoft.com/en-us/reactor/events/25906/) | Understand how MCP servers' structure and manage context to ensure AI models deliver accurate and relevant outputs, making them scalable. | Den Delimarsky |
-| E03 | Small Language Models | Jun 30 | [RSVP](https://developer.microsoft.com/en-us/reactor/events/25907/) |Explore how compact language models are designed for high performance and efficiency, perfect for resource-limited environments. | TBA |
-| | | | 
+> Registrations are open for both livestreams and AMAs. **Click the date for registration links**. Check the table below for updates - and [visit the Season 2](./docs/season-02/README.md) pages for more details _or scroll down to see the current and next episodes on the schedule_.
 
 
-![Season 2](./docs/season-02/img/Model-Mondays-S2.png)
+| Episode | Topic  | Livestream | AMA | Blog | PDF | Speaker(s)| 
+|:---|:---|:---|:---|:---|:---|:---|
+| E01 | Advanced Reasoning | [Jun 16](https://developer.microsoft.com/en-us/reactor/events/25905/) | [Jun 20](https://developer.microsoft.com/en-us/reactor/events/25905/) | - | - | Marlene Mhangami |
+| E02 |  Model Context Protocol| [Jun 23](https://developer.microsoft.com/en-us/reactor/events/25906/) | [Jun 27](https://developer.microsoft.com/en-us/reactor/events/25906/) | -| -| Den Delimarsky |
+| E03 | SLMs and Reasoning | [Jun 30](https://developer.microsoft.com/en-us/reactor/events/25907/) | [Jul 03](https://developer.microsoft.com/en-us/reactor/events/25907/) |-| - | Mojan Javaheripi, PhD |
+| E04 | AI & Developer Experience | |  | - | - | |
+| E05 | Fine-Tuning & Distillation | |  | - | - | |
+| E06 | Research & Innovation | |  | - | - | |
+| E07 | Open-Source Models | |  | - | - | |
+| E08 | On-Device & Local AI | |  | - | - | |
+| E09 | Models for AI Agents | |  | - | - | |
+| E10 | Image & Video Playgrounds| |  | - | - | |
+| E11 | Text & Speech Playgrounds | |  | - | - | |
+| E12 | Models & Observability | |  | - | - | |
+| | | | | | |
+
+
+
 
 <br/> 
 
-## 👉🏽👉🏽 Season 1: Replays Are Live!
+## S2E01 · Advanced Reasoning 🌟 **THIS WEEK**
+
+> Want to learn advanced techniques to improve AI's reasoning and problem-solving skills, enabling smarter and more efficient decision-making? Join us as we talk to Marlene Mhangami about her work building a Deep Researcher using Deep Seek R1 and LangChain. 
+
+ - 1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/25905/) - Monday, Jun 16
+ - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382860017660854372) - Friday, Jun 20
+ - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/55) - Discussion Forum
+
+![Banner](./docs/season-02/img/S02-E01.png)
+
+---
+
+## S2E02 · Model Context Protocol 🌟 **NEXT WEEK**
+
+> Want to learn how Model Context Protocol works and how to leverage MCP in a more effective way to extend the capabilities of your AI models and agents? Join us as we talk to Den Delimarsky about the MCP specification, security considerations and usage within Microsoft Azure. 
+
+ - 1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/25906/) - Monday, Jun 23
+ - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382860621137317948) - Friday, Jun 30
+ - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/54) - Discussion Forum
+
+![Banner](./docs/season-02/img/S02-E02.png)
+
+
+<br/> 
+
+## 👉🏽👉🏽 Season 1: Watch The Replays
+
+Each episode puts the spotlight on a single model or model-related tool. Learn  Click the links to watch the replays - and [visit the Season 1 page](./docs/season-01/README.md) for episode details.
+
+![Season 2](./docs/season-01/img/Model-Mondays-Season2.png)
 
 | Episode | Stream | Video | Blog | Slides | AMA | 
 |:---|:---|:---|:---|:---|:---|
@@ -49,108 +99,3 @@ Join us, and take these actions to build your model IQ one week at a time!
 | | |
 
 <br/>
-
-## S1E8 · Forecasting Models
-
-> **[Click here](https://www.youtube.com/watch?v=_I6qDdp5Vo4) to watch the replay**
-
-> In this episode, we’ll speak to Khuyen Tran (Developer Advocate, Nixtla) and put the spotlight on forecasting models (like Nixtal TimeGEN-1) that are trained on time-series data and applicable to scenarios in retail, healthcare, finance and more.
-
-[![Banner](./docs/season-01/img/S1E8-spotlight.png)](https://aka.ms/model-mondays/playlist)
-
-<br/> 
-
-## S1E7· Open Source Models
-
-> **[Click here](https://www.youtube.com/watch?v=2E842zOGIyI) to watch the replay**
-
-> In this episode, we’ll explore the intersection of open-source with AI model and application development with a spotlight on the Meta Llama 4 herd of models.
-
-[![Banner](./docs/season-01/img/S1E7-spotlight.png)](https://aka.ms/model-mondays/playlist)
-
-<br/> 
-
-## S1E06 ·Local AI Development
-
-> **[Click here](https://www.youtube.com/watch?v=iCPl693s3dA) to watch the replay**
-
-> In this episode, we’ll go hands on with local AI development by putting the spotlight on the AI Toolkit for Visual Studio Code. Join us as we speak to Rong Lu (Principal PM, Microsoft) to learn how this tool helps developers build intelligent apps using generative AI models deployed locally or in the cloud -with support for development, testing, fine-tuning and more.
-
-[![Banner](./docs/season-01/img/S1E6-spotlight.png)](https://www.youtube.com/watch?v=MgIfvEEZN7o)
-
-
-<br/>
-
-## S1E05 · Fine-Tuning Models  
-
-> **[Click here][(https://www.youtube.com/watch?v=iCPl693s3dA) to watch the replay**
-
-> In this episode, we dive into the word of fine-tuning for AI model customization and put the spotlight on the Mistral collection in the Azure AI Foundry model catalog. We’ll discuss how it works, when to use it, and the tradeoffs to know when choosing this option. And we talk about workflow and best practices for performant fine-tuning on Azure.
-
-[![Banner](./docs/season-01/img/S1E5-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
-
-<br/>
-
-## S1E04: Stability AI Models
-
-> **[Click here](https://www.youtube.com/watch?v=kDR09m_cUKs) to watch the replay**
-
-In this episode, we are joined by Ken Hoge from Stability AI. Find out how their models enable visual generative AI applicatons with text-to-image and image-to-image capabiltiies, for delivering high-resolution and representative imagery.
-
-[![Banner](./docs/season-01/img/S1E4-spotlight.png)](https://developer.microsoft.com/en-us/reactor/events/25355/)
-
-<br/>
-
-## S1E03: Cohere Rerank v3.5
-
-> **[Click here](https://www.youtube.com/watch?v=Qs4fdy17b40L) to watch the replay**
-
-In this episode, we are joined by Neel Gokhale from Cohere. Find out how reranking improves relevance of search results for Retrieval Augmented Generation, and see a hands-on demo with the Cohere Rerank v3.5 model.
-
-[![Banner](./docs/season-01/img/S1E3-spotlight.png)](https://youtu.be/Qs4fdy17b40?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
-
-<br/>
-
-## S1E02: OpenAI o1 series
-
-> **[Click here](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL) to watch the replay**
-
-In this episode, we are joined by Jennifer Marsman from Microsoft. Find out what reasoning models are, and why they are taking the AI world by storm. See a hands-on demo with the OpenAI o1 model and a real-world use case.
-
-[![Banner](./docs/season-01/img/S1E2-spotlight.png)](https://youtu.be/nTqr4pzxF-k?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL)
-
-<br/>
-
-## S1E01: GitHub Models
-
-> **[Click here](https://www.youtube.com/watch?v=dohvGc7eyqU&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=3&pp=iAQB) to watch the replay**
-
-In this episode, we are joined by Nitya Narasimhan from Microsoft. Find out what GitHub Models are and how they can help you jumpstart your generative AI learning journey for free, with just your GitHub account. Make GitHub Models your AI learning sandbox!
-
-[![Banner](./docs/season-01/img/S1E1-spotlight.png)](https://www.youtube.com/watch?v=dohvGc7eyqU&list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&index=3&pp=iAQB)
-
-<br/>
-
-<br/>
-
-## Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
