@@ -57,7 +57,7 @@ Season 2 will be a 12-episode series with our focus now expanding to models and 
 > Registrations are open for both livestreams and AMAs. **Click the date for registration links**. Check the table below for updates - and [visit the Season 2](./docs/season-02/README.md) pages for more details _or scroll down to see the current and next episodes on the schedule_.
 
 
-| Episode | Topic  | Livestream | AMA | Recap | PDF | Speaker(s)| 
+| Episode | Topic  | Live | AMA | Recap | PDF | Speaker(s)| 
 |:---|:---|:---|:---|:---|:---|:---|
 | E01 | Advanced Reasoning | [Jun 16](https://developer.microsoft.com/en-us/reactor/events/25905/) | [Jun 20](https://discord.gg/azureaifoundry?event=1382860017660854372) | [Forum](https://github.com/orgs/azure-ai-foundry/discussions/55) | [Slides](https://speakerdeck.com/nitya/model-mondays-s2e01-advanced-reasoning) | Marlene Mhangami |
 | E02 |  Model Context Protocol| [Jun 23](https://developer.microsoft.com/en-us/reactor/events/25906/) | [Jun 27](https://discord.gg/azureaifoundry?event=1382860621137317948) | -| -| Den Delimarsky |
