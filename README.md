@@ -59,7 +59,7 @@ Season 2 will be a 12-episode series with our focus now expanding to models and 
 
 | Episode | Topic  | Livestream | AMA | Blog | PDF | Speaker(s)| 
 |:---|:---|:---|:---|:---|:---|:---|
-| E01 | Advanced Reasoning | [Jun 16](https://developer.microsoft.com/en-us/reactor/events/25905/) | [Jun 20](https://developer.microsoft.com/en-us/reactor/events/25905/) | - | - | Marlene Mhangami |
+| E01 | Advanced Reasoning | [Jun 16](https://developer.microsoft.com/en-us/reactor/events/25905/) | [Jun 20](https://developer.microsoft.com/en-us/reactor/events/25905/) | - | [Slides](https://speakerdeck.com/nitya/model-mondays-s2e01-advanced-reasoning) | Marlene Mhangami |
 | E02 |  Model Context Protocol| [Jun 23](https://developer.microsoft.com/en-us/reactor/events/25906/) | [Jun 27](https://developer.microsoft.com/en-us/reactor/events/25906/) | -| -| Den Delimarsky |
 | E03 | SLMs and Reasoning | [Jun 30](https://developer.microsoft.com/en-us/reactor/events/25907/) | [Jul 03](https://developer.microsoft.com/en-us/reactor/events/25907/) |-| - | Mojan Javaheripi, PhD |
 | E04 | AI & Developer Experience | |  | - | - | |
