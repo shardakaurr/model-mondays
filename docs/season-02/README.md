@@ -2,7 +2,7 @@
 
 Here is the planned schedule! Keep an eye out for updates.
 
-![Spotlights](./img/S02-Agenda.png)
+![Spotlights](./img/S2-Agenda.png)
 
 ---
 
@@ -16,7 +16,7 @@ Here is the planned schedule! Keep an eye out for updates.
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382860017660854372) - Friday, Jun 20
  - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/55) - Discussion Forum
 
-![Banner](./img/S02-E01.png)
+![Banner](./img/S2-E1.png)
 
 ---
 
@@ -28,7 +28,7 @@ Here is the planned schedule! Keep an eye out for updates.
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382860621137317948) - Friday, Jun 30
  - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/54) - Discussion Forum
 
-![Banner](./img/S02-E02.png)
+![Banner](./img/S2-E2.png)
 
 
 ---
@@ -41,6 +41,6 @@ Here is the planned schedule! Keep an eye out for updates.
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382861149288005693) - Thursday, Jul 03
  - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/54) - Discussion Forum
 
-![Banner](./img/S02-E03.png)
+![Banner](./img/S2-E3.png)
 
 ---
