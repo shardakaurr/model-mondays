@@ -79,6 +79,7 @@ plugins:
         - Recaps
         - Tutorials
         - Season-01
+        - Season-02
   - tags
 
 # Extensions  ...............................................
