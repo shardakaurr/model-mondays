@@ -10,21 +10,7 @@ Model Mondays is a weekly 30-min livestream (on Mondays) with an AMA session (on
 
 ---
 
-## S2E01 · Advanced Reasoning 🌟 **THIS WEEK**
-
-> 🚨 **[Watch The Replay Now](https://youtu.be/ffxUEenM4B8)**
-
-> Want to learn advanced techniques to improve AI's reasoning and problem-solving skills, enabling smarter and more efficient decision-making? Join us as we talk to Marlene Mhangami about her work building a Deep Researcher using Deep Seek R1 and LangChain. 
-
- - 1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/25905/) - Monday, Jun 16
- - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382860017660854372) - Friday, Jun 20
- - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/55) - Discussion Forum
-
-![Banner](./docs/season-02/img/S02-E01.png)
-
----
-
-## S2E02 · Model Context Protocol 🌟 **NEXT WEEK**
+## S2E02 · Model Context Protocol 🌟 **THIS WEEK** 🌟
 
 > Want to learn how Model Context Protocol works and how to leverage MCP in a more effective way to extend the capabilities of your AI models and agents? Join us as we talk to Den Delimarsky about the MCP specification, security considerations and usage within Microsoft Azure. 
 
@@ -32,7 +18,20 @@ Model Mondays is a weekly 30-min livestream (on Mondays) with an AMA session (on
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382860621137317948) - Friday, Jun 30
  - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/54) - Discussion Forum
 
-![Banner](./docs/season-02/img/S02-E02.png)
+![Banner](./docs/season-02/img/S2-E2.png)
+
+
+<br/> 
+
+## S2E03 · SLMs & Reasoning 🌟 **NEXT WEEK** 🌟
+
+> Reasoning models leverage inference-time scaling to execute complex tasks, but how can we use these in resource-constrained devices? Join us as we talk to Mojan Javaheripi about Phi-4 reasoning models that are redefining small language models (SLM) for the agentic era of apps.  
+
+ - 1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/25907/) - Monday, Jun 30
+ - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382861149288005693) - Thursday, Jul 03
+ - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Watch for update
+
+![Banner](./docs/season-02/img/S2-E3.png)
 
 
 <br/> 
@@ -53,7 +52,7 @@ Great devs don't build alone! In a fast-pased developer ecosystem, there's no ti
 
 Season 2 will be a 12-episode series with our focus now expanding to models and model-related tooling - with a focus on both industry (adoption) and research (innovation). Here's a sneak peek at the topics we have planned! 
 
-![Season 2](./docs/season-02/img/S02-Agenda.png)
+![Season 2](./docs/season-02/img/S2-Agenda.png)
 
 > [!IMPORTANT]  
 > Registrations are open for both livestreams and AMAs. **Click the date for registration links**. Check the table below for updates - and [visit the Season 2](./docs/season-02/README.md) pages for more details _or scroll down to see the current and next episodes on the schedule_.
@@ -64,16 +63,30 @@ Season 2 will be a 12-episode series with our focus now expanding to models and 
 | E01 | Advanced Reasoning | [Play ▶️](https://youtu.be/ffxUEenM4B8) | [Jun 20](https://discord.gg/azureaifoundry?event=1382860017660854372) | [Forum](https://github.com/orgs/azure-ai-foundry/discussions/55) | [Slides](https://speakerdeck.com/nitya/model-mondays-s2e01-advanced-reasoning) | Marlene Mhangami |
 | E02 |  Model Context Protocol| [Jun 23](https://developer.microsoft.com/en-us/reactor/events/25906/) | [Jun 27](https://discord.gg/azureaifoundry?event=1382860621137317948) | -| -| Den Delimarsky |
 | E03 | SLMs and Reasoning | [Jun 30](https://developer.microsoft.com/en-us/reactor/events/25907/) | [Jul 03](https://discord.gg/azureaifoundry?event=1382861149288005693) |-| - | Mojan Javaheripi, PhD |
-| E04 | AI & Developer Experience | |  | - | - | |
-| E05 | Fine-Tuning & Distillation | |  | - | - | |
-| E06 | Research & Innovation | |  | - | - | |
-| E07 | Open-Source Models | |  | - | - | |
-| E08 | On-Device & Local AI | |  | - | - | |
-| E09 | Models for AI Agents | |  | - | - | |
-| E10 | Image & Video Playgrounds| |  | - | - | |
-| E11 | Text & Speech Playgrounds | |  | - | - | |
-| E12 | Models & Observability | |  | - | - | |
+| E04 | AI & Developer Experience | [Jul 07](https://developer.microsoft.com/en-us/reactor/events/26108/) | [Jul 11](https://discord.gg/azureaifoundry?event=1382861578201858058) | - | - | Leo Yao|
+| E05 | Fine-Tuning & Distillation | [Jul 14](https://developer.microsoft.com/en-us/reactor/events/26109/) | [Jul 18](https://discord.gg/azureaifoundry?event=1382862245721014476)  | - | - | Dave Voutila |
+| E06 | Research & Innovation |[Jul 21](https://developer.microsoft.com/en-us/reactor/events/26110/)  | [Jul 25](https://discord.gg/D7bAFEwj?event=1382862595849064548)  | - | - | SeokJin Han <br/> Saumil Shrivastava |
+| E07 | Open-Source Models | Jul 28 | [Jul 31](https://discord.gg/D7bAFEwj?event=1382862912804360354) | - | - |  TBA|
+| E08 | On-Device & Local AI | Aug 04| [Aug 08](https://discord.gg/azureaifoundry?event=1382863345777901670) | - | - | TBA |
+| E09 | Models for AI Agents | Aug 11 | [Aug 15](https://discord.gg/azureaifoundry?event=1382863654961025174) | - | - | Mona Whalin|
+| E10 | Image & Video Playgrounds| Aug 18| [Aug 22](https://discord.gg/azureaifoundry?event=1382864122902745228) | - | - | Thasmika Gokal |
+| E11 | Text & Speech Playgrounds | Aug 25 | [Aug 29](https://discord.gg/azureaifoundry?event=1382864441191960696) | - | - | Cenyu Zhang |
+| E12 | Models & Observability | Sep 08 | [Sep 12](https://discord.gg/azureaifoundry?event=1382864811649536120) | - | - | Minsoo Thigpen|
 | | | | | | |
+
+<br/> 
+
+## 👉🏽👉🏽 Season 2: Replay Past Episodes
+
+### S2E01 · Advanced Reasoning (Jun 16, 2025)
+
+> Want to learn advanced techniques to improve AI's reasoning and problem-solving skills, enabling smarter and more efficient decision-making? Join us as we talk to Marlene Mhangami about her work building a Deep Researcher using Deep Seek R1 and LangChain. 
+
+ - 1️⃣ | [Watch The Livestream Replay](https://developer.microsoft.com/en-us/reactor/events/25905/) 
+ - 2️⃣ | [Read The AMA Transcript](https://discord.gg/azureaifoundry?event=1382860017660854372) 
+ - 2️⃣ | [Download the Presentation](https://discord.gg/azureaifoundry?event=1382860017660854372) 
+
+![Banner](./docs/season-02/img/S2-E1.png)
 
 <br/> 
 
