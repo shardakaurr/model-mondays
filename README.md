@@ -14,7 +14,7 @@ Model Mondays is a weekly 30-min livestream (on Mondays) with an AMA session (on
 
 > Want to learn how Model Context Protocol works and how to leverage MCP in a more effective way to extend the capabilities of your AI models and agents? Join us as we talk to Den Delimarsky about the MCP specification, security considerations and usage within Microsoft Azure. 
 
- - 1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/25906/) - Monday, Jun 23
+ - 1️⃣ | [Watch The Livestream Replay](https://www.youtube.com/watch?v=cPS3cWRZTps) 
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382860621137317948) - Friday, Jun 30
  - 3️⃣ | [Ask Questions & View Recaps](https://github.com/orgs/azure-ai-foundry/discussions/54) - Discussion Forum
 
@@ -82,14 +82,11 @@ Season 2 will be a 12-episode series with our focus now expanding to models and 
 
 > Want to learn advanced techniques to improve AI's reasoning and problem-solving skills, enabling smarter and more efficient decision-making? Join us as we talk to Marlene Mhangami about her work building a Deep Researcher using Deep Seek R1 and LangChain. 
 
- - 1️⃣ | [Watch The Livestream Replay](https://developer.microsoft.com/en-us/reactor/events/25905/) 
+ - 1️⃣ | [Watch The Livestream Replay](https://www.youtube.com/watch?v=ffxUEenM4B8) 
  - 2️⃣ | [Read The AMA Transcript](https://discord.gg/azureaifoundry?event=1382860017660854372) 
  - 2️⃣ | [Download the Presentation](https://discord.gg/azureaifoundry?event=1382860017660854372) 
 
-<iframe width="600" height="350" src="https://www.youtube.com/embed/ffxUEenM4B8?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL" title="Model Mondays - Advanced Reasoning" frameborder="0"></iframe>
-
-
-![Banner](./docs/season-02/img/S2-E1.png)
+[![Banner](./docs/season-02/img/S2-E1.png)](https://www.youtube.com/watch?v=ffxUEenM4B8)
 
 <br/> 
 
