@@ -86,6 +86,9 @@ Season 2 will be a 12-episode series with our focus now expanding to models and 
  - 2️⃣ | [Read The AMA Transcript](https://discord.gg/azureaifoundry?event=1382860017660854372) 
  - 2️⃣ | [Download the Presentation](https://discord.gg/azureaifoundry?event=1382860017660854372) 
 
+<iframe width="600" height="350" src="https://www.youtube.com/embed/ffxUEenM4B8?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL" title="Model Mondays - Advanced Reasoning" frameborder="0"></iframe>
+
+
 ![Banner](./docs/season-02/img/S2-E1.png)
 
 <br/> 
