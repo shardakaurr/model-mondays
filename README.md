@@ -61,7 +61,7 @@ Season 2 will be a 12-episode series with our focus now expanding to models and 
 | Episode | Topic  | Live | AMA | Recap | PDF | Speaker(s)| 
 |:---|:---|:---|:---|:---|:---|:---|
 | E01 | Advanced Reasoning | [Play ▶️](https://youtu.be/ffxUEenM4B8) | [Jun 20](https://discord.gg/azureaifoundry?event=1382860017660854372) | [Forum](https://github.com/orgs/azure-ai-foundry/discussions/55) | [Slides](https://speakerdeck.com/nitya/model-mondays-s2e01-advanced-reasoning) | Marlene Mhangami |
-| E02 |  Model Context Protocol| [Jun 23](https://developer.microsoft.com/en-us/reactor/events/25906/) | [Jun 27](https://discord.gg/azureaifoundry?event=1382860621137317948) | -| -| Den Delimarsky |
+| E02 |  Model Context Protocol| [Play ▶️](https://www.youtube.com/watch?v=cPS3cWRZTps) | [Jun 27](https://discord.gg/azureaifoundry?event=1382860621137317948) | [Forum](https://github.com/orgs/azure-ai-foundry/discussions/64) | [Slide](https://speakerdeck.com/nitya/model-mondays-s2e02-model-context-protocol) | Den Delimarsky |
 | E03 | SLMs and Reasoning | [Jun 30](https://developer.microsoft.com/en-us/reactor/events/25907/) | [Jul 03](https://discord.gg/azureaifoundry?event=1382861149288005693) |-| - | Mojan Javaheripi, PhD |
 | E04 | AI & Developer Experience | [Jul 07](https://developer.microsoft.com/en-us/reactor/events/26108/) | [Jul 11](https://discord.gg/azureaifoundry?event=1382861578201858058) | - | - | Leo Yao|
 | E05 | Fine-Tuning & Distillation | [Jul 14](https://developer.microsoft.com/en-us/reactor/events/26109/) | [Jul 18](https://discord.gg/azureaifoundry?event=1382862245721014476)  | - | - | Dave Voutila |
