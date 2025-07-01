@@ -1,12 +1,25 @@
 # Model Mondays: Build Your Model IQ
 
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/model-mondays.svg?style=social&label=Watch)](https://github.com/microsoft/model-mondays/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/model-mondays.svg?style=social&label=Fork)](https://github.com/microsoft/model-mondays/fork)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/model-mondays?style=social&label=Star)](https://github.com/microsoft/model-mondays/stargazers)
+
+
+[![Join Discord Shield](https://img.shields.io/badge/Join_The_Community-Azure_AI_Foundry_Discord-01a6f0)](https://aka.ms/model-mondays/discord) [![Discover](https://img.shields.io/badge/Talk_To_Experts-Foundry_Friday_AMA-f34f1c)](https://aka.ms/model-mondays/discord) [![Register](https://img.shields.io/badge/Watch_The_Replay-Model_Mondays_Playlist-ffba01)](https://aka.ms/model-mondays/[playlist]) [![Join](https://img.shields.io/badge/Watch_Us_Live-Model_Mondays_Livestream-7fbc00)](https://aka.ms/model-mondays/rsvp) [![Subscribe](https://img.shields.io/badge/Subscribe-Model_Mondays_Newsletter-purple)](https://aka.ms/model-mondays/newsletter) 
+
+---
+
 ![Model Mondays](./img/model-mondays-banner.png)
+
+> [!IMPORTANT]
+> **Find this series useful? Give us a ⭐️ on GitHub!**
 
 Model Mondays is a weekly 30-min livestream (on Mondays) with an AMA session (on Fridays) to help you keep up with the rapid pace of innovation in AI models.
 
 - **Highlights** · a 5-min recap of top model news from the last week.
 - **Spotlight** · a 15-min deep dive into a single model, with an expert.
 - **Community** · a 30-min AMA for interactive QA with experts, on Discord.
+
 
 ---
 
