@@ -53,6 +53,7 @@ This is the currently-planned schedule. Some of the events (see: ⁉️) are cur
  - 1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/26108/) - Jul 07, 2025
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382861578201858058) - Jun 11, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
+ - 4️⃣ | [Download Slides](https://speakerdeck.com/nitya/model-mondays-s2e04-ai-developer-experiences) - Speakerdeck PDF
 
 ![Banner](./img/S2-E4.png)
 
