@@ -11,12 +11,27 @@ This document captures guidance, learnings and troubleshooting tips for using Gi
 1. [Add an MCP Server](https://code.visualstudio.com/docs/copilot/chat/mcp-servers#_add-an-mcp-server) - sets up `.vscode/mcp.json`
 1. [Add GitHub MCP Server](https://github.com/microsoftdocs/mcp) - with Personal Access Token
 1. [Add Microsoft Docs Server](https://github.com/microsoftdocs/mcp) - with "search" tool access for grounding links
+1. [Add Hugging Face MCP Server](https://huggingface.co/settings/mcp)
 
-**Tip**: When configuring the GitHub server, choose the option that uses the Personal Access Token. Note that it is configured to _use the inputs feature_ to ask for the token interactively at the time you start the MCP server. You now have two options:
-1. Go to [GitHub Settings](https://github.com/settings/personal-access-tokens) and generate a token on demand each time. You will not see this again so you will need to regenerate the token each time, or copy it somewhere (which is a security issue).
-1. Do the step above - but then save it to a [Codespaces secrets](https://github.com/settings/codespaces) environment variable which can then get associated with any repo. Now, the relevant token will be visible in your Codespaces env variable at runtime, making it easier for you to copy it into input when asked (without exposing it externally).
+### Config Tips
 
-Here is an example of the file with the Microsoft Docs MCP and GitHub MCP servers configured. _Since the `.vscode/` folder is gitignore-d, you will not see this in the version controlled codebase_. You can add the MCP servers in interactively or just recreate this file in your active session. _The file will have `Start Server` annotations over each server for easy start/stop controls.
+The MCP Server configuration may require the use of secrets (e.g., GitHub PAT or Hugging Face token) in the configuration file in cleartext. The `mcp.json` file is _never_ checked into GitHub for version control to prevent leaks of these tokens. 
+
+_But how can we then remember and reuse these secrets in successive runs?_. 
+The easiest way is to store these values in GitHub Codespaces secrets, and have them be made available to your Codespaces (repo) automatically as env variables. Let's see how.
+
+1. First, create the tokens you will need for these MCP servers.
+    1. Create Fine-grained [GitHub PAT](https://github.com/settings/personal-access-tokens) for GitHub tools
+    1. Create Read-only [HF-TOKEN](https://huggingface.co/settings/tokens/new) for Hugging Face tools
+1. Then create [Codespaces secrets](https://github.com/settings/codespaces) with names you will associate with these tokens - and select the relevant repositories that you will be using them in. _Now, when you launch Codespaces on that repo, the secrets will be available automatically as named env variables.
+1. Now, when the `.vscode/mcp.json` file is created, you can "fill in" the required tokens when needed. For instance, in the sample file below:
+
+- Hugging Face token is hardcoded in the mcp.json file - so just copy the value from env variables into the file.
+- GitHub token is taken from the input field - so just copy the value from env variables into the input prompt you will see when starting the server.
+
+### Sample MCP Config
+
+This is the `.vscode/mcp.json` that I use for this project. Note that you will need to replace the `<YOUR_HF_TOKEN>` from the HF secret above, and the enter a valid Github PAT when prompted for `GITHUB_PERSONAL_ACCESS_TOKEN` as input.
 
 ```json
 {
@@ -44,6 +59,12 @@ Here is an example of the file with the Microsoft Docs MCP and GitHub MCP server
             ],
             "env": {
                 "GITHUB_PERSONAL_ACCESS_TOKEN": "${input:github_token}"
+            }
+        },
+        "hf-mcp-server": {
+            "url": "https://huggingface.co/mcp",
+            "headers": {
+                "Authorization": "Bearer <YOUR_HF_TOKEN>"
             }
         }
     }
