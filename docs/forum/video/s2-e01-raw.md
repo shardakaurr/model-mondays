@@ -1,0 +1,668 @@
+0:01
+hello everyone and thank you for joining us for today's session My name is Danny and I'm the event planner for the New
+0:07
+York Reactor Space Before we start I have a few things to go over Please take a moment to review our code of conduct
+0:13
+We seek to provide a respectful environment for both our audience and presenters We encourage engagement in
+0:19
+the chat but please be mindful of your commentary remain professional and on topic Useful links will be shared in the
+0:26
+chat The session is recorded and will be available on demand in 24 to 48 hours on
+0:32
+the Microsoft Reactor YouTube channel Which brings us to today's session It
+0:37
+will run for approximately 30 minutes with time for questions throughout I will now turn it over to our speaker for
+0:44
+introductions Hello Hello Hello everyone and welcome
+0:51
+to season two of Model Mondays I can't believe we're already in season two Uh we're so excited to have you here I just
+0:58
+want to set the stage for how Model Mondays will go today Our topic is advanced reasoning Before we get into
+1:03
+this which is the spotlight segment we're going to take five minutes to give you a recap of the top news items in the
+1:09
+model world from uh Azure AI Foundry And for that I have Charmela joining us And
+1:14
+once we're done with that we'll transition over and we'll invite Marlene on board So uh before I get started let
+1:20
+me just introduce you really quickly to two links you need to know So Model Mondays is a series that will happen
+1:26
+weekly So go ahead and look at those two links The second one is a forum link where you can post your questions
+1:31
+throughout and the first is a discord where you can join us for an AMA on Friday But without further ado I want to
+1:37
+actually introduce my G my co-host here Charma Hi how are you hi Nita It seems
+1:44
+like a minute since we last time since we completed with season 1 but um it's
+1:49
+exciting to see that people are interested in um model Mondays and they want to see season 2 So I'm looking
+1:55
+forward to season 2 and to share more model news uh share more learnings that
+2:01
+we got and also um we've done a ton of model drops at build and like news at
+2:07
+build um so we won't be able to cover everything today so I've added a few
+2:12
+today and we will be covering some of the build news in the next few weeks as well Um so let's get started with the
+2:19
+highlights Let's go in Hello everyone Welcome back to Model
+2:25
+Monday's season 2 weekly highlights And um you know we've been out for a while
+2:31
+and there have been a bunch of news that landed both at Build and afterwards So
+2:36
+I'm going to cover the top highlights today and we will be doing more of these
+2:42
+like what happened at build in the next upcoming weeks So let's dive in First we
+2:47
+have the Azure AI foundry models uh there was some update on that front
+2:52
+where we introduced what we call the direct from Azure models So these are models that are hosted and sold by
+2:59
+Microsoft So in the past we had only open AAI models in this category You're all familiar with the Azure OpenAI
+3:05
+service So now we are bringing more models along the same business model
+3:11
+which is models from Deepseek um XAI Meta Mistral So what is going to happen
+3:18
+is these are going to be hosted by Microsoft and as a result it'll be under
+3:23
+Microsoft service terms and all that and also we are going to make some of these direct from Azure models available in
+3:31
+provisioned offering and it's going to be kind of flexible provisioned offering
+3:36
+So which means you can um if you have open AAI reservations today you can use
+3:42
+it across not just open AI models but also like deepsek models for today and
+3:48
+more in the future So this is now Azure AI foundry is now the ultimate model
+3:54
+playground from model matchmaking to deployment drama like serverless um
+4:00
+reserved or managed You can pick your choice and you know you can make your
+4:05
+applications way more productive and scalable Moving on uh let's say hello to Sora
+4:11
+OpenAI's video gen wizard which is now in the Foundry video playground So in
+4:17
+again video playground is a new feature in Foundry You should all check it out It's amazing So if you want to go from
+4:24
+prompt to popcorn worthy playback then this is one of the models you should be
+4:30
+exploring in our on our video playground and our video playground interface has has amazing where you can click on
+4:37
+videos that are already pre-generated and you can create your own videos um you can uh with exportable code VS code
+4:44
+plugins and enterprise ready pipelines so it's not just a demo it's your AI
+4:51
+video production studio with professional wides Moving on
+4:57
+the next is model router Again you might might have seen some mentions of this in
+5:03
+at build So it's like um you know if you're tired of picking what model you
+5:08
+want to use in your use case um the model you should let the model router do the work It is available as another
+5:15
+model in the model catalog And um it today um um we can you can pick between
+5:21
+a few open AAI models or the model router picks between few open AAI models but the plan for the team uh the team
+5:28
+has been planning to extend it to other models as well So it's in the road map So first try it out today um with openAI
+5:36
+models and then it you can soon you will be able to uh your use case or
+5:42
+application will be able to pick between any other models as well So think of model router as the ways for genai It
+5:49
+reads your prompt and sends it down the smartest cheapest and fastest route and
+5:54
+it is awesome Um again this is one of the most um uh interesting ways where you can think about cost efficiency and
+6:02
+if you're worried about cost efficiency then this is one of the um options you should try out
+6:08
+Moving on Grock Um you would have seen that we've announced that we landed Gro
+6:14
+3 and Gro 3 Mini in Azure AI foundry models So they're bringing long context
+6:20
+cosmic humor and um you know with Azure grade reliability and enterprise
+6:27
+governance and up to 131,000 tokens of memory and these models are basically
+6:32
+the elephant of the model LLM zoo and there are you know advanced capabilities
+6:38
+like reasoning capabilities also associated with these models So if you're interested in trying out the
+6:43
+groth models again azure air foundry backed with our enterprise reliability
+6:48
+is the right place to check it out And now finally um we another model
+6:56
+again this is not a brand new model in the catalog we've had Deepseek R1 now we
+7:01
+did bring the new Deepseek hotness which is the Deepseek R110528 this model is smarter faster and more
+7:09
+grounded than ever and better reasoning like check chain of thought magic and
+7:15
+hallucination blocker and you know perfect for agents co-pilots and anyone
+7:21
+one who's trying to keep your applications real in the sense it's not it's production worthy Um so definitely
+7:29
+check this out Again this is a open open source model that is available out there But then if you want to get the
+7:36
+enterprisegrade security and reliability then you should definitely try a deep
+7:42
+car 0528 on foundry So that's it Um that's a wrap for all model Monday's
+7:47
+news Um thank you Nita and I'll h hand it back to you
+7:55
+Hey thanks Charla You know you actually set us up very well by putting Deepseek as the last thing because you know this
+8:02
+is a perfect segue for us to bring our next presenter on And so today our spotlight is as we mentioned on
+8:08
+reasoning models and we have with us Marlene Mahungami I hope I'm saying your
+8:13
+name right Marlene Yes And uh Marlene is actually a developer advocate in the Python team but she brings three levels
+8:21
+of expertise that I'm going to like shout out to her now First she's been working with Azure and Langchain for a
+8:26
+while So she has some really interesting news if you follow her on on LinkedIn Second she's been working with Deep Sea
+8:33
+Car1 Uh in fact the thing that she will talk about today is a lab a 300 400 level lab that she presented at Build
+8:40
+And last but not least I think we wanted to call it advanced reasoning models because we're looking at how do we
+8:45
+actually build complex applications So Marlene I'm going to set you up by asking why should we be talking about
+8:51
+reasoning models today yeah thank you so much Natia for having me Hi everyone Um I think reasoning
+8:58
+models are really exciting I think those these models are the models that are going to give us the highest quality
+9:04
+output at the moment And Nitia and I were talking about this There's so much news coming out about reasoning models
+9:12
+So we saw like Anthropic just published an article about how they built their
+9:17
+researcher with a reasoning model and we know Apple also published something saying reasoning models aren't really
+9:23
+reasoning So there's a lot of controversy right now but it's a an it's an exciting space which is good Yeah And
+9:29
+I I I'm I'm actually going to shout out the AMA on Friday because we absolutely should read that illusion of thinking
+9:35
+paper and come ready to talk about it Um I'll also give a shout out to a third model that wasn't in the kind of like
+9:41
+news but it's FI for reasoning There's a wonderful FI for reasoning tech report from Microsoft research but more
+9:47
+importantly keep an eye out for the schedule because uh episode three is going to have someone from the FI team
+9:53
+come and talk about SLMs and reasoning So this is great but uh I want to save time for Marlene to take questions after
+9:59
+So Marlene should we go right into the demo that you're doing for us today yes let's go right into it I will mention
+10:05
+that I'm specifically talking about the deep seek models when I'm uh going
+10:10
+through the demo Um but you can also try it out and it'll be slightly different with the O uh models or the 51 but
+10:18
+similar concepts in general So yes let's get started Let's roll Hi everyone So
+10:24
+today we are going to be looking at this guide in front of us that um is a guide
+10:32
+I wrote for a lab I presented at build this year called deeps research with deepcar1 and lang chain Um this is
+10:41
+supposed to just be walking you through how to be able to build a deep researcher with a reasoning model using
+10:46
+a framework like lang chain I will mention that I do think we will have the link to the guide in the notes somewhere
+10:54
+So you should be able to do it on your own at your own pace So getting started I will mention that you don't have to
+11:00
+use deep seek There's a new model version of DeepSeek that's out on Foundry that I think you should
+11:07
+definitely try out but you can use whatever model you want Some of my favorites are 03 and 01 and 54 reasoning
+11:13
+So loads of models that you can try out and should all work as well So the first
+11:18
+thing is that we want to understand what a reasoning model is So reasoning models are LLMs that are trained with
+11:24
+reinforcement learning to perform reasoning And that look that means that
+11:30
+the output of the reasoning model is going to be different from our usual chat models And to demonstrate this we
+11:37
+can look at uh lab 1A Here we are going to be using Langchain a new uh package
+11:45
+Python package that we have in Langchain called Langchain Azure AI And this just
+11:51
+allows us to be able to access all of the foundry models within Langchain To do to set it up this is pretty much all
+11:57
+the code that we need we are you know instantiating our model and then we're
+12:03
+just going to get a research query from the user and pass that research query as
+12:09
+a message You know LChain has this human message option that you can pass uh to
+12:15
+uh the model and then it will stream the response So very little code in Python
+12:21
+that we're using You'll note we're not using a system prompt here So let's go ahead and see what this looks like when
+12:27
+we run the code I'm actually just going to copy here and paste this and it will
+12:34
+ask me for a research topic I'm going to say what let me say how do I make a good
+12:41
+cup of coffee i love coffee
+12:46
+So always up for that So the first thing that you'll notice right away is that
+12:52
+the model is starting with think tags So you'll know that if you've you know
+12:58
+coded with HTML and CSS you'll have seen these sort of tags and instead of it
+13:06
+being HTML or an A or something we have think in it And this just shows the
+13:11
+start of the model's thinking process So it's streaming the process And we can see the model has finished reasoning
+13:18
+when the there's going to be a closing think tag So let's wait The model is
+13:24
+still reasoning just read a little bit of what it's saying It's saying "Okay so I want to make a good cup of coffee Let
+13:30
+me think about that How to approach this I know coffee can be made in different ways." So it's really being thoughtful
+13:36
+about this It's going for for a while Um
+13:41
+and it's thinking a little bit step by step Okay it's now finished the process of
+13:49
+thinking because we can see this end think tag And then at the end of the
+13:54
+think tag so everything that's going to be in those think tags is the model's thought process about how to make good
+14:00
+coffee And then it's going to give the final response that will be the user
+14:05
+response So we can see here it's saying to make a good cup of coffee follow these essential steps So start with
+14:11
+beans grind etc CC ooked as expected And this is different
+14:17
+from what we usually see with a chat model And usually with a chat model
+14:22
+you're not going to get as maybe detailed of a response This is a really detailed response And that's kind of the
+14:28
+nice thing with reasoning models is the quality of your final output is higher
+14:34
+But you know one of the downsides as well is that you're waiting a little bit longer for the response Uh so that can
+14:41
+be a little bit of a downside Um the next thing that I want to point out and
+14:48
+here in the lab as well is that you usually in a real life scenario you
+14:54
+don't want your user if you're building out an application you don't want your user to see these the thinking process
+15:00
+probably or maybe you want to them to see it but in a special box somewhere So we need to be able to separate that
+15:06
+thinking from the final response and we can actually do that with some Python code This is the Python code um that I
+15:13
+used to do this um inspired by some code from Langchain Shout out to them Um and
+15:20
+here we can see that it's looking for the start think tag and the ending think
+15:26
+tag here and it'll separate this function will be able to look for everything that was in those two think
+15:33
+tags the start one and the end one and separate that from everything that's afterwards which will be the result for
+15:40
+the humans uh for us humans to be able to see And we can actually look at this
+15:46
+um by running code that is in this file which is one uh lab 1B which um puts in
+15:55
+let's go ahead and clear it It puts in the code and it also adds some nice colors and things like that So I'm going
+16:01
+to copy this and I'm going to paste it in and it's going to ask me a question I'm going to say what
+16:09
+uh tell me two nice parks in
+16:15
+in London I'm based in London So hopefully it's going to give me some good park recommendations for the summer
+16:21
+So we can already see I've used textual which is a Python library to be able to
+16:27
+you know visualize this in a very fun way but we can see that we we're
+16:33
+separating out that thinking process and then we're also getting the results here So that was really nice and quick Um and
+16:40
+in a real life application we could just even just return the research answer and
+16:45
+that's it But you can see that we've been able to separate that those two with just this Python code here The next
+16:52
+thing that we want to do is understand that with reasoning models sometimes
+16:58
+people want to use these models to be longer running and do things like research and use them in some sort of
+17:05
+business process and at the end of it create some sort of a final report and
+17:10
+we want to be able to do that as well So I am to do to be able to do that We can
+17:18
+just go ahead and edit the system prompt In the last example that we had we
+17:23
+didn't actually have a system prompt at all The model just reasoned here We you know for this current example we
+17:30
+actually had said to put in bullet points the final answer But we can change this and let's say um provide the
+17:37
+final answer as a table as a table
+17:43
+and that should then give us an answer our
+17:49
+answer in a different way Let's let's quit And then we're going to just rerun the same code but we hopefully we'll get
+17:56
+let's say again give me three parks in London
+18:03
+and why they are popular So the model is going to run through the
+18:09
+thinking process and at the end of the day we're going to hopefully get a different yes we get a different style
+18:17
+of result uh because we've formatted we've specified to the model we want the results to be returned in this way So
+18:25
+when you're using these models they're very helpful for situations when you want high quality results and you want
+18:31
+to maybe create some sort of a PDF report or something like that This is super useful So let's move on to the
+18:38
+next step The next thing I want to talk about is how with these reasoning models
+18:43
+even though they give us very high quality results they do have limitations
+18:48
+So our LLMs uh in their current state usually will have things like a training
+18:55
+cutoff date So they don't have all the knowledge that is there from this exact
+19:02
+date today So maybe the parks that I was recommended there's a new park that came
+19:07
+out today which the most popular park and it's not in the data um because the
+19:12
+model doesn't have access to any data that it was that was pre its training
+19:18
+date training cuto off date and so we want to also we also know that the models have limited amount of knowledge
+19:26
+um built into them and so giving them a tool which gives it access to the
+19:31
+internet to the is a great way to be able to give your
+19:36
+model some extra context and it can reason over that context as well So we
+19:41
+want our reasoning model to perform two functions in this process of building a deep researcher here in terms of the web
+19:48
+research part The first thing that we want the model to do is take in our
+19:54
+research topic that we've typed in Usually I'm super lazy like you know maybe I'll say just find me the best
+19:59
+parks or something like that We want the researcher to be able to take context
+20:05
+extra context from its surroundings and generate a good query that it can use to
+20:11
+search for results online so that the data it's getting from online is accurately is is correct in terms of
+20:18
+context And so to be able to do that we'll have the user just pass through the the research topic and then we'll
+20:26
+have a system prompt that we send to DCAR1 And we can actually take a look at the
+20:32
+system prompts All of the system prompts are in a Python prompts.py file and it
+20:39
+just has instructions about what the user what the um model should do So we
+20:45
+want the model to take in that research topic and then give us a result where it returns the query to send to the API and
+20:53
+also gives us back some rationale So tells us exactly why uh it's made the
+20:59
+decision to do this So that is pretty much what we're going to be doing for the query generation part and then after
+21:06
+that we're going to do some riv research and then summarize the results as well So we'll first look at the generating
+21:12
+query part and the tability search part So to do that we are just going to copy
+21:18
+this here And I tried to make it as easy as possible
+21:24
+for you to just see what is happening in the results Let's go ahead and paste
+21:30
+that in And our topic is what is something that we need to know
+21:37
+let's say what is a trending topic today
+21:43
+So obviously there's it's needs to look online because uh we need to know what
+21:50
+the date is today and we need to be able to know what's trending Um so the first
+21:56
+thing is that we you can see that the date is the 13th to be able to see that we actually have a Python function here
+22:03
+that gets the current date and passes that information to the reasoning model
+22:08
+So it has that context of what the date is today and then um also it g it's
+22:14
+thinking about what else it needs to know to be able to generate this query Um it's you know just thinking about I
+22:23
+should consider major events tech conferences etc etc maybe it's taking in
+22:29
+I'm not sure what context a ticked context is what it's it's getting so
+22:36
+let's set it generate okay great so it's done that and then it
+22:44
+generated the search query the search query that it says June 1320 2022
+22:49
+trending news topic social media and rationale is this group combines current date with platform specific trends to
+22:56
+identify viral subjects breaking news or cultural moments dominating online discussions as of today So we can do
+23:02
+things like we can say you can actually tell the model that you want you know a longer query and you should have as
+23:10
+detailed as a query as you'd like and all of this you can change in the prompt
+23:15
+which just like we saw before can be passed as the system message into lang chain So here for example we've only
+23:22
+asked it to return to us one search result and we're seeing that there's a trending topic Here are some current
+23:28
+trends Bigfoot is trending on Tik Tok I don't know why big sit is saying content
+23:34
+creates are making accounts and utilizing VO Okay that's I don't know if we want to talk about VO on this in this
+23:41
+place but it's fine So that is a great example of how we can give our model
+23:47
+tools And to be able to see that you can just go to the lab 2A option to be able
+23:55
+to just look through what that looked like to be able to pass through the
+24:00
+system prompt We just got the code this writer query for uh instructions We
+24:06
+imported it from the prompts py file We're passing it through and then we are
+24:12
+printing Um some other things to note is that you know you can take a look at the
+24:19
+code here in terms of where is my search kind here it is So you can change uh the
+24:27
+number of results if you want more results You can also change the s search depth to make it uh more advanced So if
+24:34
+you want a really detailed search to be done um then you can edit this uh
+24:41
+section here I've also put in the guide a link to the search document So I think
+24:48
+that's all the time I have for this demo today Uh I hope you enjoyed it I hope it
+24:53
+was helpful If you would like to see more please go ahead and take a look at the guide And that is all I have for the
+24:59
+moment Thanks
+25:05
+Oh my gosh that was so much Thank you so much Marlene Uh I know we'll kind of have a 5-second delay while we catch up
+25:11
+on the chat So I'm actually going to just put the link to uh the the the
+25:17
+slide that has your sample while we wait for people to come on And um I don't
+25:22
+know if you saw any interesting questions Charmela what is do you have anything that you want to weigh in on with a question while we seed the the
+25:28
+conversation um my big the one question I have would
+25:34
+be around these like we were talking you're talking about advanced reasoning and we have all these croc models and
+25:40
+now deep like we had deepseek um so Marlene are you seeing any uh have you
+25:47
+seen differences like have you explored the gro models at all or are you seeing uh what's the big like why should people
+25:53
+use one versus the other is there some some takeaways here I have not explored the growth models
+26:01
+yet Um yeah I have not explored them at all at this point but I have of course
+26:09
+explored 01 and 03 the other versions
+26:14
+uh the the the versions that are coming the reasoning models from OpenAI and I
+26:19
+have also taken a look at 54 reasoning and I think that looks good I would say
+26:25
+I think that right now probably the O you know your O uh group of models is
+26:33
+probably going to give you the highest quality If you just want uh pure quality in terms of a reason models reasoning
+26:40
+model I think that's going to be a great option The API is going to be different
+26:45
+So the results that you're going to get are going to be slightly different from what you're getting with deepseek but
+26:51
+it'll also be really good and you can do the same thing separating the thoughts from the results But I would say with
+26:58
+the 54 reasoning that is a great choice when you're doing stuff with SLMs and
+27:04
+you're wanting to work entirely local That's going to save you a lot of money It's going to you know be also great for
+27:11
+privacy reasons as well That's also a great reason to choose something like DeepSeek because you can do all of that
+27:18
+locally on your machine and you're going to save in terms of costs um just
+27:23
+because these are open source models So you can do a lot more I would say in uh
+27:28
+on your local machine with those and I think Deepseek is probably in the middle in terms of like really high quality but
+27:35
+also something you can use locally So that's what I would say with that I haven't tried Grock but I'm open to
+27:41
+hearing I'm gonna weigh in on a couple of things because there are questions coming in but I'll weigh in on a couple of things One is I think uh since
+27:47
+Charmela brought up model router check it out Model route actually hides reasoning and non-reasoning models behind a router and takes a decision for
+27:54
+you So for those of you who are asking price and price trade-offs try it out and see whether it's doing the job for
+28:00
+you Um second thing I think is uh since we brought up DeepSeek we actually have an MEI RDES I forget the name of the
+28:08
+model but yeah which I hugely recommend And for
+28:14
+those of you want to try Grock out it's available on GitHub Both of them are available on GitHub So you could take it
+28:19
+for a spin for free but I want to actually go to our conversation So Marlene there's a a question from Marco
+28:25
+who says "How do you create tests to validate consistency on prompt responses?" which I think is an
+28:31
+absolutely fantastic question Yeah that's a great question Evals are a huge
+28:37
+part of of this process I would say setting up evaluations You could set up
+28:42
+an LLM as a judge to ensure that the results that you're getting are are are
+28:48
+good Um part of this deep research lab that uh I did at at build is a
+28:55
+reflective process where you actually get the model to reason over the current
+29:01
+re response And this is one of the reasons why we use lang chain is because it keeps track in langraph of the state
+29:08
+And so you tell the model to reason over the current report and see is this a
+29:13
+good report and if it doesn't think it's it's good it should recommend a new
+29:18
+prompt to send So something new to send to the API or to generate you know a
+29:24
+better report So the model ideally should be iterating on itself and
+29:30
+reflecting on the output and you can do that with you can write out the code to
+29:35
+do that Uh Lchain has a great um template for LLM as a judge or you can
+29:41
+use the built-in evals We have some great built-in emails as well Um and I think Mitia even maybe has a lab on that
+29:50
+No So I'll put the the link in the chat to to what Marlene was saying I mean the bottom line is you need evaluations no
+29:55
+matter what and you have to go like don't just leave it till the end Start from the very beginning when you start
+30:01
+building your application to evaluate them So we have an evaluation SDK in the Azure AI foundry So the lab that Marlene
+30:07
+was referencing is one that'll walk you through all the safety and quality um evaluators plus help you build your own
+30:12
+custom one But yeah um there's tons of work in this space and we should put the links in there But I want to ask you one
+30:18
+other question Marlene because the next question was also interesting and this is I think very relevant to Deepseek It
+30:23
+says you get answers in think tags each showing the thought process but how is each think content processed and what if
+30:31
+the output doesn't match the following pre-generated think tags so I think this is if you can see the question in the
+30:37
+chat otherwise I can copy it over I'm not sure uh how is each think content
+30:45
+processed and what if the output doesn't match the following pre-generated think
+30:50
+tags do you mean how is the uh the
+30:56
+information inside the think tags like the thought tags processed i think I'm trying to understand the question but So
+31:05
+since we'll we'll ask um hopefully the person who asked I think it is patient
+31:10
+zero Yeah we'll clarify this when they watch the watch us chat But I think what
+31:16
+they're talking about is actually that reasoning uh token right so the idea is that reasoning tokens are used up when
+31:23
+you reason on or when it's thinking for a particular step Yes And I think in the O series models it drops the thinking
+31:31
+history right for the next round It only takes the tokens for the current one Not sure how deepsek works So what I'm
+31:38
+guessing they're asking is does it maintain like the the think history that's there does it become part of the
+31:43
+conversation history i see I think patient zero has clarifi I mean at least
+31:49
+clarified a little bit more So it's he's he or she is asking what does it do with the content of each think tag uh are
+31:57
+they generate generated a few in sequence right yeah So I think with reasoning models
+32:05
+they're trained to do things in a step-by-step process So it will probably thinking it'll it'll be thinking again
+32:12
+in that same way that the models do this you know are generating the next token
+32:20
+but they are thinking more they've been trained to do it in a step-by-step
+32:25
+manner So they've been trained to do that with reinforcement learning and um
+32:32
+I don't think usually yes the if you actually go back and you read the
+32:39
+thinking the content that was in the think tags it's super coherent like you can actually follow how the model is
+32:45
+getting to where it's getting like you can see the step-by-step process and I
+32:50
+think that's all done with that reinforcement learning probably they've shown it other ways that it thinks uh in
+32:58
+in those ways So yeah I hope that answers the question but I do think it it thinks in sequence That's correct
+33:05
+Yeah and I was going to say I think we're over time but uh just a couple of quick links First of all uh you can snap
+33:12
+the QR code This is the lab that Barley Brown had built It'll go walk you step by step through that entire demo that
+33:18
+she just did Uh but want to give a shout out that next week on model Mondays we
+33:23
+will have Den Delmarski come and talk to us about model context protocol Um this is probably an area of huge interest to
+33:29
+a lot of people So if you have questions comments please do post them in our discord or on the forum uh ahead of time
+33:36
+But I want to leave with this that Marlene is actually going to be available on our discord for our AMA on
+33:42
+Friday So today we it was kind of the live stream and we have 30 minutes but on Friday if you join discord and go to
+33:48
+that link u model Monday right now and register we'll spend 30 minutes just
+33:54
+literally only talking about reasoning models and answer all the questions and also like look at some of the news that
+34:00
+came out like the Apple paper and like the anthropic architecture and like the questions you're asking So um if you
+34:07
+have any other questions or comments please do leave them for us uh and we'll try to get back to And with that uh is
+34:13
+Charmela here as well marlene any last thoughts why should people be looking at reasoning models uh no This this was
+34:20
+great I think the lab is there I feel like reasoning models are so fun to
+34:25
+experiment with I think it's so cool to see the the step-by-step process to me
+34:30
+is is really interesting to to watch and I think that's probably the the furthest
+34:36
+we are in the field at the moment So yes excited to hopefully see you on Friday Please join us on Friday for the AMA So
+34:43
+yes please join us on Friday and don't forget to go check out the other series that is 54 reasoning on uh in two weeks
+34:50
+from now and model context protocol next week Thank you all for joining us Thanks everyone You thank thanks everyone Bye
+34:56
+bye
