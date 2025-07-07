@@ -1,0 +1,244 @@
+Lee Stott [Microsoft]
+ is now a speaker. — 6/20/25, 1:23 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳
+ is now a speaker. — 6/20/25, 1:23 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:25 PM
+The Foundry Friday AMA on Advanced Reasoning is about to start in 5 minutes Here is a link to the Discussion Forum page where we will share resources after this - check it now for a link to the slides and video from Monday
+https://github.com/orgs/azure-ai-foundry/discussions/55 
+GitHub
+Foundry Friday AMA · Jun 20, 2025 · Advanced Reasoning · azure-a...
+⁉️ Have questions on reasoning models? Add them here! We&#39;ll post a recap after the AMA on this thread AMA On Advanced Reasoning: This is part of the #ModelMondays project where we invite a subj...
+Foundry Friday AMA · Jun 20, 2025 · Advanced Reasoning · azure-a...
+Prabu K
+[OAI]
+ — 6/20/25, 1:28 PM
+I can hear you
+Yes
+Actually from Chennai 🙂
+now in Dallas
+Marlene
+ is now a speaker. — 6/20/25, 1:30 PM
+Marlene
+ is now a speaker. — 6/20/25, 1:30 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:30 PM
+You can find the recordings from previous shows at https://aka.ms/model-mondays/playlist - Marlene's episode aired on Monday
+YouTube
+Model Mondays
+Coming soon! Model Mondays - new episodes Mondays at 10:30 AM PT / 1:30 PM ET
+Image
+Lee Stott [Microsoft]
+ started Foundry Models AMA - Advanced Reasoning Models — 6/20/25, 1:30 PM
+Jehuty
+[ɢᴀ㎜ᴀ]
+ — 6/20/25, 1:33 PM
+hello from Portugal!
+Nick
+[M.AI]
+ — 6/20/25, 1:33 PM
+Happy first day of Summer . . . in northern hemisphere. 🙂
+Abhishek kumar — 6/20/25, 1:33 PM
+Hello mam
+Nick
+[M.AI]
+ — 6/20/25, 1:33 PM
+Calling in from Vancouver WA
+Dany Herscovitch — 6/20/25, 1:33 PM
+Hello from London, it is hot indeed!
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:35 PM
+Hello from New York 🗽🇺🇸
+PowerPlatformExplorer — 6/20/25, 1:36 PM
+Hello from the UK 🇬🇧Recently passed the AZ AI 900 exam 🎉
+John — 6/20/25, 1:36 PM
+Hey from Egypt 🇪🇬
+Lee Stott [Microsoft] — 6/20/25, 1:36 PM
+great to see so many names and faces I recongise!! Great to see this community growing!!
+Vignesh Srinivasan — 6/20/25, 1:37 PM
+Calling in from Oregon
+Lee Stott [Microsoft] — 6/20/25, 1:37 PM
+https://machinelearning.apple.com/research/illusion-of-thinking
+Apple Machine Learning Research
+The Illusion of Thinking: Understanding the Strengths and Limitatio...
+Recent generations of frontier language models have introduced Large Reasoning Models (LRMs) that generate detailed thinking processes…
+Image
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:37 PM
+Illusion of Thinking paper from Apple
+https://machinelearning.apple.com/research/illusion-of-thinking
+Apple Machine Learning Research
+The Illusion of Thinking: Understanding the Strengths and Limitatio...
+Recent generations of frontier language models have introduced Large Reasoning Models (LRMs) that generate detailed thinking processes…
+Image
+Lee Stott [Microsoft] — 6/20/25, 1:38 PM
+have a look at ⁠model-mondays  for all the episodes and watch on demand
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:38 PM
+You can find the recordings from previous shows at https://aka.ms/model-mondays/playlist - Marlene's episode aired on Monday
+YouTube
+Model Mondays
+Coming soon! Model Mondays - new episodes Mondays at 10:30 AM PT / 1:30 PM ET
+Image
+perfectstorm — 6/20/25, 1:39 PM
+should i consider using reasoning models with github copilot for coding?
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:40 PM
+Anthropic paper on multi-agent arch
+https://www.anthropic.com/engineering/built-multi-agent-research-system
+How we built our multi-agent research system
+On the the engineering challenges and lessons learned from building Claude's Research system
+Anthropic logo
+Sharmila Chockalingam -Microsoft
+ is now a speaker. — 6/20/25, 1:40 PM
+takescake — 6/20/25, 1:41 PM
++1 for anthropic code
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:41 PM
+Q: Who here is using GitHub Copilot for coding with Agent Mode?
+takescake — 6/20/25, 1:41 PM
+me
+perfectstorm — 6/20/25, 1:42 PM
+to give additional context -- i was considering to fine-tune a model with proprietary code samples & looking to find a good base model to start with. currently thinking to use phi-4.
+Lee Stott [Microsoft] — 6/20/25, 1:42 PM
+GitHub Copilot Agent Mode supports a growing list of top-tier models, giving developers flexibility based on their preferences and project needs. As of now, you can access models like:
+Claude 3.5 and 3.7 (via Anthropic)
+GPT-4.5 and GPT-4o (via OpenAI or Azure OpenAI)
+Gemini 1.5 (via Google)
+Custom or local models through integrations like OpenRouter, Ollama, or other third-party APIs
+
+https://techcommunity.microsoft.com/blog/azuredevcommunityblog/programming-with-github-copilot-agent-mode/4400630
+TECHCOMMUNITY.MICROSOFT.COM
+Programming with GitHub Copilot Agent Mode | Microsoft Community Hub
+GitHub Copilot continues to grow, starting with code completion/generation/optimization, to GitHub Copilot Chat, which optimizes the quality of AI-generated...
+Programming with GitHub Copilot Agent Mode | Microsoft Community Hub
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:42 PM
+@takescake I should have known!! What are you using it for?
+takescake — 6/20/25, 1:43 PM
+Powershell, C#, and learning python right now
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:44 PM
+Open AI Deep Research
+https://openai.com/index/introducing-deep-research/
+Marlene's lab from Build - https://aka.ms/build/lab331 - build a deep resercher. with DeepSeek-R1 and LangGraph
+Deep Reasearch with DeepSeek R1 and LangChain
+Learn how to build an AI-powered research assistant using DeepSeek R1, LangGraph, and FastAPI.
+takescake — 6/20/25, 1:45 PM
+Deep Research with Sharepoint too I believe
+Mena — 6/20/25, 1:45 PM
+I have tried the Researcher which is part of M365 and it was impressive also
+Lee Stott [Microsoft] — 6/20/25, 1:46 PM
+Yes @takescake  this is the researcher agent in m365 copilot
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:46 PM
+@Mena  can you raise your hand and come on stage and tell us a bit about your experience?
+DeepSeek-R1-0528 blog post
+https://github.com/marketplace?type=models
+GitHub
+GitHub Models
+Create AI-powered applications with GitHub
+Create AI-powered applications with GitHub
+delbert1313 — 6/20/25, 1:48 PM
+Image
+Lee Stott [Microsoft] — 6/20/25, 1:49 PM
+So this is foundry Catalog!
+Mena — 6/20/25, 1:50 PM
+Yes sure to happy to share my experience🙂
+Lee Stott [Microsoft] — 6/20/25, 1:50 PM
+https://www.linkedin.com/pulse/function-calling-voice-using-gpt-4o-guy-gregory-w9soe
+Function calling with voice using GPT-4o
+Last week, after presenting the new Realtime API for speech and audio in Azure OpenAI Service, a Microsoft partner asked me whether it's possible to integrate external tools and services. The answer? Absolutely! In fact, our public VoiceRAG demo itself uses function calling for Azure AI Search integ
+Function calling with voice using GPT-4o
+Mena
+ is now a speaker. — 6/20/25, 1:51 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:53 PM
+For those who are new to reasoning models we also had an entry-level lab at Build focused on OpenAI o-series. 
+Resources here
+https://aka.ms/discuss/build25-lab333
+Lab here:
+Image
+GitHub
+#GetHelp with Lab333: Evaluate Reasoning Models for Your Generative...
+About Lab333 ⁉️ - Have a question, comment or insight to share about this lab? Leave us a comment on this thread. The content creators and instructors will monitor this and respond within a day or ...
+#GetHelp with Lab333: Evaluate Reasoning Models for Your Generative...
+Q: How many folks here have tried a reasoning model to build something? What examples did you try for prompts?
+Thanks @Mena
+takescake — 6/20/25, 1:56 PM
+"Based of what you know about flowdevs create a business plan for a billion dollar evaluation with two employees"
+
+:P. That was the o3-pro prompt shooting for the moon
+Miskaone
+[SURF]
+ — 6/20/25, 1:56 PM
+Q: can you discuss knowledge graphs with RAG to reduce hallucinations with reasoning model 
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 1:56 PM
+My favorite use case is visual reasoning right now - there is an example in the lab - but it was able to take a word puzzle from a screenshot and figure it out - and then make more. Think of it analyzing endgames for chess given a midgame snapshot
+HM — 6/20/25, 1:56 PM
+Yes, it’s a high need that communication between User and Model needs to be standardized, just like MCP, A2A . There is a lot of information that’s needed At response level and needs to be parsed out .
+takescake — 6/20/25, 1:57 PM
+its a 5 year plan
+delbert1313 — 6/20/25, 1:58 PM
+https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/
+Microsoft Research
+Brenda Potts
+LazyGraphRAG sets a new standard for GraphRAG quality and cost
+Introducing a new approach to graph-enabled RAG. LazyGraphRAG needs no prior summarization of source data, avoiding prohibitive up-front indexing costs. It’s inherently scalable in cost and quality across multiple methods and search mechanisms:
+LazyGraphRAG sets a new standard for GraphRAG quality and cost
+great stuff, but have a call at the top of the hour!
+Miskaone
+ is now a speaker. — 6/20/25, 2:00 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 2:01 PM
+Will capture the Q&A in this page https://github.com/orgs/azure-ai-foundry/discussions/55 - if we missed anything please do leave questions there and we can answer async
+GitHub
+Foundry Friday AMA · Jun 20, 2025 · Advanced Reasoning · azure-a...
+⁉️ Have questions on reasoning models? Add them here! We&#39;ll post a recap after the AMA on this thread AMA On Advanced Reasoning: This is part of the #ModelMondays project where we invite a subj...
+Foundry Friday AMA · Jun 20, 2025 · Advanced Reasoning · azure-a...
+@Miskaone  interesting - what hallucination did you see?
+So my $0.02 is that architecture matters - and if reasoning is used for planning but other agents exxecute you will do better
+takescake — 6/20/25, 2:04 PM
+^ what is your recommendation to do this?
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 2:07 PM
+Anthropic paper on multi-agent arch
+https://www.anthropic.com/engineering/built-multi-agent-research-system
+How we built our multi-agent research system
+On the the engineering challenges and lessons learned from building Claude's Research system
+Anthropic logo
+takescake — 6/20/25, 2:07 PM
+AG2 has this which seems interesting: https://docs.ag2.ai/latest/docs/use-cases/notebooks/notebooks/agentchat_captainagent/ gotta drop thanks!
+AG2 - CaptainAgent
+A programming framework for agentic AI
+AG2 - CaptainAgent
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 2:08 PM
+Thanks for joining @takescake
+Lee Stott [Microsoft] — 6/20/25, 2:08 PM
+We will be wrapping up any last questions.. 
+
+As Nitya said we will providing a write summary of the session at https://github.com/orgs/azure-ai-foundry/discussions/55  and continue the discussion in ⁠model-mondays
+GitHub
+Foundry Friday AMA · Jun 20, 2025 · Advanced Reasoning · azure-a...
+⁉️ Have questions on reasoning models? Add them here! We&#39;ll post a recap after the AMA on this thread AMA On Advanced Reasoning: This is part of the #ModelMondays project where we invite a subj...
+Foundry Friday AMA · Jun 20, 2025 · Advanced Reasoning · azure-a...
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 2:09 PM
+Register for https://aka.ms/model-mondays/rsvp
+Model Mondays | Microsoft Reactor
+Image
+Mena — 6/20/25, 2:09 PM
+Thank you everyone !
+Prabu K
+[OAI]
+ — 6/20/25, 2:10 PM
+👍  Thank You  Marlene , Nithya
+John — 6/20/25, 2:10 PM
+Thanks!
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳
+ ended Foundry Models AMA - Advanced Reasoning Models — 6/20/25, 2:10 PM
+Shivamm — 6/20/25, 2:41 PM
+🙂 I was late to join
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 2:42 PM
+Forgot to mention - we have the Phi-4 Reasoning models in focus on episode 3 so if you have an interest in the topic register for the Jun 30 livestream https://aka.ms/model-mondays/rsvp - and bring any questions you have @perfectstorm
+Model Mondays | Microsoft Reactor
+Image
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 2:42 PM
+Hope to see you next time - this is every Friday so...
+Shivamm — 6/20/25, 2:43 PM
+Surely, will be on time mam 🙂
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/20/25, 2:44 PM
+I will try to be on Discord more as well - its just got so busy. But congratulations on the recent event you shared on LinkedIn!
+Shivamm — 6/20/25, 2:46 PM
+Thank you so much for resharing in your network.
+
+Would also love to have your thoughts on ⁠CodeNull: Full stack - No-code… 
+This was my final btech project I recently shared over Linkedin
+
+And yes! will be much more happy to connect with you over Discord anytime soon, its good that you'll come back active
