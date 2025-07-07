@@ -1,0 +1,84 @@
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/27/25, 1:12 PM
+Hey everyone - just getting the chat space ready for the upcoming ⁠model-mondays AMA with @Den Delimarsky (Microsoft)  at 1:30pm ET (in 15 mins or so). The Topic: Model Context Protocol
+
+Den is on the MCP Steering Committee and an expert on their security and authorization spec. Bring your questions or just come hang out and chat about all things MCP! You can watch the replay of his talk here:
+https://youtu.be/cPS3cWRZTps?list=PLmsFUfdnGr3wzz6a4E-Szksg92JPng-AL&t=396
+See you in 15 mins
+YouTube
+Microsoft Reactor
+Model Mondays - Model Context Protocol
+Image
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳
+ started Foundry Models AMA: Model Context Protocol — 6/27/25, 1:29 PM
+Sharmila Chockalingam -Microsoft
+ is now a speaker. — 6/27/25, 1:30 PM
+Flo — 6/27/25, 1:31 PM
+someone else loves purple too. 
+Korey — 6/27/25, 1:33 PM
+🇸🇪
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 6/27/25, 1:33 PM
+I'm from New York 🇮🇳🇺🇸
+Flo — 6/27/25, 1:33 PM
+Romania, Living in The Netherlands.
+Vlad — 6/27/25, 1:33 PM
+🇺🇿🇺🇸
+Tomas Colazo — 6/27/25, 1:33 PM
+🇦🇷
+Nick
+[M.AI]
+ — 6/27/25, 1:33 PM
+Vancouver WA
+🇺🇸
+pateldev xd — 6/27/25, 1:33 PM
+🇮🇳
+Vik — 6/27/25, 1:33 PM
+San Francisco
+Dimable — 6/27/25, 1:33 PM
+Ukraine, living in Poland during the war
+codeputer — 6/27/25, 1:33 PM
+Canada - Kelowna
+Vimal Raj
+[GDC]
+ — 6/27/25, 1:33 PM
+🇮🇳
+Vlad — 6/27/25, 1:33 PM
+Uzbekistan
+uddhav — 6/27/25, 1:34 PM
+Philly
+pateldev xd — 6/27/25, 1:34 PM
+🇮🇳 🇩🇪
+Nadia — 6/27/25, 1:34 PM
+Morocco
+Nick
+[M.AI]
+ — 6/27/25, 1:34 PM
+Yes
+Lee Stott [Microsoft] — 6/27/25, 1:34 PM
+Hi everyone ! UK
+JackBasta — 6/27/25, 1:34 PM
+🏴󠁧󠁢󠁷󠁬󠁳󠁿
+Flo — 6/27/25, 1:34 PM
+coulthrust — 6/27/25, 1:35 PM
+Yaaaaasss
+Vlad — 6/27/25, 1:35 PM
+Used MCP
+Flo — 6/27/25, 1:35 PM
+I`m more familiar with Kali.
+pateldev xd — 6/27/25, 1:35 PM
+yassss
+Nick
+[M.AI]
+ — 6/27/25, 1:35 PM
+Familiar with what it is. Not used it though
+Vik — 6/27/25, 1:35 PM
+Yes
+codeputer — 6/27/25, 1:35 PM
+Yes
+Vlad — 6/27/25, 1:35 PM
+Playwright MCP for UAT
+Flo — 6/27/25, 1:35 PM
+a deity from India 😦
+codeputer — 6/27/25, 1:35 PM
+CalmCreativeChaos.com
+Dimable — 6/27/25, 1:35 PM
+In the middle of deploying a custom MCP server, already have an image) 

@@ -1,3 +1,4 @@
+
 0:01
 hello everyone and thank you for joining us for today's session My name is Danny and I'm the event planner for the New
 0:07
@@ -609,7 +610,7 @@ conversation history i see I think patient zero has clarifi I mean at least
 31:49
 clarified a little bit more So it's he's he or she is asking what does it do with the content of each think tag uh are
 31:57
-they generate generated a few in sequence right yeah So I think with reasoning models
+they generate generated a few in they are generated a few in sequence right yeah So I think with reasoning models
 32:05
 they're trained to do things in a step-by-step process So it will probably thinking it'll it'll be thinking again
 32:12
