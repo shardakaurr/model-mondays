@@ -1,0 +1,320 @@
+Leo Yao
+ is now a speaker. — 1:18 PM
+Lee Stott [Microsoft]
+ is now a speaker. — 1:18 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳
+ is now a speaker. — 1:19 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:20 PM
+Hey @Leo Yao - this is the chat
+April Gittens
+ is now a speaker. — 1:22 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:29 PM
+🌟 | Welcome to Foundry Fridays AMA
+ICYMI - we will summarize the discussion and share all relevant resources on our Discussions Forum. Just track this link: https://github.com/orgs/azure-ai-foundry/discussions/90
+GitHub
+Foundry Friday AMA · Jul 11, 2025 · AI & Developer Experiences ·...
+AMA on AI Developer Experiences This is part of the #ModelMondays series where we put the spotlight on a new model-related topic each week. This post was generated with AI help and human revision &...
+Foundry Friday AMA · Jul 11, 2025 · AI & Developer Experiences ·...
+Lee Stott [Microsoft]
+ started Foundry Models AMA:  AI Developer Experience — 1:31 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:32 PM
+Hello from New York!! 🗽🇺🇸
+Sourabh
+[ALCH]
+ — 1:32 PM
+Hello from Bangalore, India 🇮🇳
+Yash — 1:33 PM
+Hi from Dallas 🇺🇸
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:33 PM
+Hey Sourabh! my home town!
+Akash — 1:33 PM
+I need to travel. Will it available? Online
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:33 PM
+Where is everyone else from? Just curious
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:33 PM
+Will have a transcript of the chat but you can see the recording from Monday here: https://aka.ms/model-mondays/playlist
+YouTube
+Model Mondays
+Coming soon! Model Mondays - new episodes Mondays at 10:30 AM PT / 1:30 PM ET
+Image
+captain_ — 1:34 PM
+is this related to autogen in anwyay?
+Shivam Bhargava — 1:34 PM
+Hi from Bangalore India
+Vryheid Jobeer — 1:35 PM
+Good evening from South Africa?
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:35 PM
+(Leo) Not really Autogen but we use some tech behind the scenes - see https://aka.ms/aitoolkit for more on what Leo is talking about 
+AI Toolkit for Visual Studio Code - Visual Studio Marketplace
+Extension for Visual Studio Code - AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.
+Image
+takescake — 1:36 PM
+Doggo!
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:37 PM
+GitHub Models FTW - they are adding so many features so love that we can use them from here
+https://github.com/marketplace/models
+Vryheid Jobeer — 1:37 PM
+Does the AI toolkit include some tools and if so what kind of tools?
+captain_ — 1:37 PM
+I actually use the opensource version ag2 from Qingyun and Chi. So i am just trying to figure out how this works within that context.
+i know its separate
+Shivamm — 1:38 PM
+Heyyy
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:39 PM
+Ah - yes the Microsoft AutoGen framework is different but is integrated seamlessly with the Azure AI Foundry. That said - would love to hear what you want to do with AG2? Maybe we can help decide if the tooling in AI toolkit will help.
+Lee Stott [Microsoft] — 1:40 PM
+Hi Everyone! if you like to ask a live question please use the chat or raise your hand to be invited to the stage
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:41 PM
+The Agent Builder feature is a real time saver. You can learn about it here - but in reality I find it useful to help make my prompt design thinking better
+https://code.visualstudio.com/docs/intelligentapps/agentbuilder
+Build agents and prompts in AI Toolkit
+Get Started with creating, iterating and optimizing your agents in AI Toolkit.
+Build agents and prompts in AI Toolkit
+This is the list of tools currently listed in the extension - but you can look at pre-release here as well https://aka.ms/aitoolkit
+Image
+AI Toolkit for Visual Studio Code - Visual Studio Marketplace
+Extension for Visual Studio Code - AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.
+Image
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:44 PM
+Hey @Vryheid Jobeer  raise your hand so we can get you to come on stage!! Would love to hear more
+Bala2252
+[HACK]
+ — 1:45 PM
+Aren’t there new models added everyday? Is there a way to keep track of them all? Is it even necessary to keep track of all?
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:45 PM
+More on the evaluation side of AI Toolkit
+(Relevance, staying on instruction - 10+ functions for evals https://code.visualstudio.com/docs/intelligentapps/evaluation) 
+Lee Stott [Microsoft] — 1:45 PM
+July Updates for AI Toolkit https://techcommunity.microsoft.com/blog/azuredevcommunityblog/ai-toolkit-for-vs-code-july-update/4431548
+TECHCOMMUNITY.MICROSOFT.COM
+AI Toolkit for VS Code July Update | Microsoft Community Hub
+We’re back with the&nbsp;July update for the AI Toolkit for Visual Studio Code! This month marks a major release—version 0.16.0—bringing features we teased...
+AI Toolkit for VS Code July Update | Microsoft Community Hub
+Vryheid Jobeer — 1:45 PM
+If the instruction prompt include (Plan, act, test, evaluate, iterate repeat. Loop) is there a model that can maintain that loop for more than 4 iterations or till the task is completed?
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:46 PM
+The built-in evaluators https://code.visualstudio.com/docs/intelligentapps/evaluation#_builtin-evaluators
+Evaluate models, prompts, and agents
+Evaluate AI models, prompts, and agents using AI Toolkit's comprehensive evaluation system. Import datasets, run evaluations with built-in evaluators like F1 score, relevance, coherence, and similarity, or create custom LLM-based and code-based evaluators. Visualize and compare results in tables and charts.
+Evaluate models, prompts, and agents
+Vryheid Jobeer — 1:46 PM
+No I don't want to be on stage
+Shivamm — 1:46 PM
+Raise hand if someone has any doubts
+Bala2252
+ is now a speaker. — 1:46 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:47 PM
+No worries - did we get your question answeered>'
+Vryheid Jobeer — 1:48 PM
+Yes I thank you
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:48 PM
+And the links for custom evaluators 
+https://code.visualstudio.com/docs/intelligentapps/evaluation#_create-custom-evaluators
+Bala2252
+[HACK]
+ — 1:48 PM
+Thanks for answering my question
+Shivamm — 1:48 PM
+⁠azure-ai-foundry-models⁠
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:50 PM
+(Answer) Depends on the model you are using and the context window size
+takescake — 1:51 PM
+Because Azure AI foundry is the best! 😛
+Vryheid Jobeer — 1:51 PM
+Thank you so that means we must request llama 4 behemoth in the toolkit for 10m token context window 💪
+Lee Stott [Microsoft] — 1:51 PM
+check out @April Gittens  series called Agents Support weekly every Tuesday on AI Toolkit https://techcommunity.microsoft.com/blog/azuredevcommunityblog/how-can-i-measure-the-quality-of-my-agents-responses/4430906
+TECHCOMMUNITY.MICROSOFT.COM
+How can I measure the quality of my agent's responses? | Microsoft ...
+Welcome back to Agent Support—a developer advice column for those head-scratching moments when you’re building an AI agent! Each post answers a real question...
+How can I measure the quality of my agent's responses? | Microsoft ...
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:51 PM
+Question for the audience - is anyone using MCP servers? I know the toolkit has integrationa nd testing capability so wanted to get a sense of which servers and experiences were in focus
+Funmilayo🔥💜 — 1:51 PM
+How do I get started?
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:52 PM
+I will let Leo answer - but will also say that part of the new focus is on context engineering where you maybe need to see if the design of the app can be distributed to use models with smaller windows.
+
+Is there a specific use case where you need a really large window @Vryheid Jobeer
+Shivamm — 1:52 PM
+I did Learn MCP , Notion, & created some custom MCPs
+
+Secondly for my personal project I did created some
+Funmilayo🔥💜 — 1:52 PM
+No, please....
+Lee Stott [Microsoft] — 1:53 PM
+check out @April Gittens  blog series called Agents Support weekly every Tuesday on AI Toolkit https://techcommunity.microsoft.com/blog/azuredevcommunityblog/how-can-i-measure-the-quality-of-my-agents-responses/4430906
+TECHCOMMUNITY.MICROSOFT.COM
+How can I measure the quality of my agent's responses? | Microsoft ...
+Welcome back to Agent Support—a developer advice column for those head-scratching moments when you’re building an AI agent! Each post answers a real question...
+How can I measure the quality of my agent's responses? | Microsoft ...
+Vryheid Jobeer — 1:53 PM
+From my side, gemini cli + MCP just getting started to play
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:53 PM
+Install the extension
+Watch April's video series https://aka.ms/AIToolkit/videos
+YouTube
+AI Toolkit
+Image
+April Gittens — 1:53 PM
+TIL aka.ms/AIToolkit
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:53 PM
+I actually started watching her series and its a good actionable way to learn a couple of thins
+M.Farias — 1:53 PM
+I used before, Surge to send sms and supabase to build backend stuff
+Lee Stott [Microsoft] — 1:53 PM
+AI Toolkit https://aka.ms/aitoolkit
+AI Toolkit for Visual Studio Code - Visual Studio Marketplace
+Extension for Visual Studio Code - AI Toolkit for VS Code streamlines generative AI app development by integrating tools and models. Browse and download public and custom models; author, test and evaluate prompts; fine-tune; and use them in your applications.
+Image
+April Gittens — 1:54 PM
+TIL aka.ms/AIToolkit/docs
+Nisal gunawardhana — 1:54 PM
+Azure AI Foundry allows us to combine our data set with the model and work with it. Are there any methods in the AI ​​toolkit?
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:54 PM
+Ah interesting - what was the size of data you wanted to use as context? Good to know
+Funmilayo🔥💜 — 1:55 PM
+Thank youuu. @Lee Stott [Microsoft] @Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 @April Gittens @Leo Yao
+Dimable — 1:55 PM
+hi, regarding the VS Code evaluator, is it possible to evaluate llm which also enhanced with RAG by connecting to a db instance
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:55 PM
+Interesting - so do you like the CLI more than UI based workflows? If you are getting started with MCP - check out the https://aka.ms/mcp-for-beginners series if you want a hands-on roadmap
+GitHub
+GitHub - microsoft/mcp-for-beginners: This open-source curriculum i...
+This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python. - micro...
+GitHub - microsoft/mcp-for-beginners: This open-source curriculum i...
+Shivamm — 1:55 PM
+🙂
+Vryheid Jobeer — 1:56 PM
+The orchestrater if ml models need to work together on a complex task to plan, act, test, evaluate and iterate
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:57 PM
+If you aren't already in the ⁠azure-ai-foundry-models do hang out there and let me know what your journey looks like. I want o learn more about this - but can follow up after
+Daniel D — 1:57 PM
+Would this toolkit work with VS Community 2022?
+Dimable — 1:58 PM
+yes please I'm connected from a phone)
+Dimable
+ is now a speaker. — 1:58 PM
+Shivamm — 1:58 PM
+⁠ai-toolkit here it is
+Lee Stott [Microsoft] — 1:58 PM
+⁠ai-toolkit is the channel
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 1:58 PM
+(Leo's Answer) follow up on the ⁠ai-toolkit channel here on Discord .. 
+takescake — 1:58 PM
+:pepe_wave:
+Lee Stott [Microsoft] — 1:59 PM
+👋  @Dimable thanks for coming on the stage! great to have you in the community! 
+OsmanH — 2:00 PM
+We have two options to build AI ( Model/ Agent), both supports adding knowledge, which one is preferred to use - in case if there is no need for actions/tools-
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 2:00 PM
+AI Toolkit Evaluations docs https://code.visualstudio.com/docs/intelligentapps/evaluation
+Evaluate models, prompts, and agents
+Evaluate AI models, prompts, and agents using AI Toolkit's comprehensive evaluation system. Import datasets, run evaluations with built-in evaluators like F1 score, relevance, coherence, and similarity, or create custom LLM-based and code-based evaluators. Visualize and compare results in tables and charts.
+Evaluate models, prompts, and agents
+Vryheid Jobeer — 2:00 PM
+I haven't scratched there yet, I'm abusing github copilot pro to the max but no Azure AI foundry models yet. I've used Azure vision/ocr and Azure Speech because of the generous free tier API calls
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 2:02 PM
+You can bring your own model to GitHub copilot as well - but absolutely see this as a way to explore things. Also definitely check out GitHub Marketplace models - it is a free (rate-limited) way to explore the same models in the Azure AI Foundry catalog - so if you are prototyping .. this is a good way to go
+Daniel D — 2:03 PM
+Thank You.
+OsmanH — 2:03 PM
+I had a question above
+Shivam Bhargava — 2:03 PM
+What is GitHub model rate limit value?
+Lee Stott [Microsoft] — 2:03 PM
+Hi @Daniel D its only supported in VSCode at present
+OsmanH — 2:04 PM
+Sorry I can dåeak now
+Lee Stott [Microsoft] — 2:05 PM
+No need for action or tools - Choose Models
+OsmanH — 2:05 PM
+Thank you 👍
+Lee Stott [Microsoft] — 2:05 PM
+Low Models: Requests per minute: 15 (Free), 20 (Enterprise) Requests per day: 150 (Free), 450 (Enterprise) Tokens per request: 8000 in, 4000 out (Free), 8000 in, 8000 out (Enterprise) Concurrent requests: 5 (Free), 8 (Enterprise)
+
+High Models: Requests per minute: 10 (Free), 15 (Enterprise) Requests per day: 50 (Free), 150 (Enterprise) Tokens per request: 8000 in, 4000 out (Free), 16000 in, 8000 out (Enterprise) Concurrent requests: 2 (Free), 4 (Enterprise)
+
+Embedding Models: Requests per minute: 15 (Free), 20 (Enterprise) Requests per day: 150 (Free), 450 (Enterprise) Tokens per request: 64000 (all plans) Concurrent requests: 5 (Free), 8 (Enterprise)
+@Shivam Bhargava  here is the link https://docs.github.com/en/github-models/use-github-models/prototyping-with-ai-models
+GitHub Docs
+Prototyping with AI models - GitHub Docs
+Find and experiment with AI models for free.
+Image
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳
+ is now a speaker. — 2:09 PM
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 2:10 PM
+Series https://aka.ms/AIToolkit/videos
+YouTube
+AI Toolkit
+Image
+Lee Stott [Microsoft] — 2:10 PM
+Docs for AI Toolkit https://learn.microsoft.com/en-us/windows/ai/toolkit/
+Overview for the AI Toolkit for Visual Studio Code
+The AI Toolkit for Visual Studio Code provides tools and access to a model catalog to help jump-start local AI development and deployment.
+Overview for the AI Toolkit for Visual Studio Code
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 2:11 PM
+Agent Support Blog
+https://techcommunity.microsoft.com/tag/agent%20support?nodeId=board%3AAzureDevCommunityBlog
+TECHCOMMUNITY.MICROSOFT.COM
+Tag:"agent support" in "Microsoft Developer Community Blog" | Micro...
+Image
+Lee Stott [Microsoft] — 2:11 PM
+Toolkit channel is ⁠ai-toolkit
+Yes you can create MCP servers see https://aka.ms/mcp-for-beginners for consumption and creation
+GitHub
+GitHub - microsoft/mcp-for-beginners: This open-source curriculum i...
+This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python. - micro...
+GitHub - microsoft/mcp-for-beginners: This open-source curriculum i...
+Lesson 10 Hands on Lab 🙂
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 2:13 PM
+Q: Can the AI Toolkit help you create MCP Servers? - yes it supports it - see the final lesson in MCP For Beginners with a 4-part lab to help ^^
+Lee Stott [Microsoft] — 2:13 PM
+Lets Learn MCP https://techcommunity.microsoft.com/blog/azuredevcommunityblog/lets-learn---mcp-events-a-beginners-guide-to-the-model-context-protocol/4429023
+TECHCOMMUNITY.MICROSOFT.COM
+Let's Learn - MCP Events: A Beginner's Guide to the Model Context P...
+The Model Context Protocol (MCP) has rapidly become the industry standard for connecting AI agents to a wide range of external tools and services in a...
+Let's Learn - MCP Events: A Beginner's Guide to the Model Context P...
+Vryheid Jobeer — 2:14 PM
+Thank you for this
+Lee Stott [Microsoft] — 2:16 PM
+Thanks everyone its always great to have a our global community on these sessions! 
+April Gittens — 2:17 PM
+https://techcommunity.microsoft.com/blog/azuredevcommunityblog/ai-toolkit-for-vs-code-july-update/4431548
+TECHCOMMUNITY.MICROSOFT.COM
+AI Toolkit for VS Code July Update | Microsoft Community Hub
+We’re back with the&nbsp;July update for the AI Toolkit for Visual Studio Code! This month marks a major release—version 0.16.0—bringing features we teased...
+AI Toolkit for VS Code July Update | Microsoft Community Hub
+Funmilayo🔥💜 — 2:18 PM
+we all can't hear Lee
+M.Farias — 2:19 PM
+I can
+Daniel D — 2:19 PM
+I can.  Thank you for this overview.
+Red — 2:19 PM
+I can hear Lee
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 2:19 PM
+If you missed the livestream or need a recap.
+FInd it here https://github.com/orgs/azure-ai-foundry/discussions/90
+GitHub
+Foundry Friday AMA · Jul 11, 2025 · AI & Developer Experiences ·...
+AMA on AI Developer Experiences This is part of the #ModelMondays series where we put the spotlight on a new model-related topic each week. This post was generated with AI help and human revision &...
+Foundry Friday AMA · Jul 11, 2025 · AI & Developer Experiences ·...
+Lee Stott [Microsoft] — 2:20 PM
+No problems I was just sharing it was great session and if you have questions please use the ⁠ai-toolkit
+Nitya Narasimhan, PhD 🗽🇺🇸🇮🇳 — 2:21 PM
+Next episode: https://aka.ms/model-mondays/rsvp
+Model Mondays | Microsoft Reactor
+Image
+Lee Stott [Microsoft] — 2:21 PM
+see you all on Monday at Model Mondays!
+Erwing-MB — 2:21 PM
+🥳 :AIFoundry:
+Lee Stott [Microsoft] — 2:21 PM
+Thanks everyone..
+Dimable — 2:21 PM
+thank you 👍
+April Gittens
+ ended Foundry Models AMA:  AI Developer Experience — 2:21 PM
+Daniel D — 2:21 PM
+👏
