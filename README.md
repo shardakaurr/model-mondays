@@ -16,9 +16,7 @@
 ![Model Mondays](./img/model-mondays-banner.png)
 
 
-Every AI developer journey starts with model choice. But, as developers, we face two challenges. First is **information overload** - how do we keep up with the rapid pace of model updates and innovation? Second is **decision fatigue** - how do we pick the right model for our task given an ever-growing list of options?
-
-Model Mondays tackles these challenges by helping you build your model IQ one week at a time with [livestreams every Monday](https://aka.ms/model-mondays/rsvp) and [AMAs every Friday](https://aka.ms/model-mondays/forum).
+Every AI developer journey starts with model choice. But, as developers, we face two challenges. First is **information overload** - how do we keep up with the rapid pace of model updates and innovation? Second is **decision fatigue** - how do we pick the right model for our task given an ever-growing list of options? Model Mondays tackles these challenges by helping you build your model IQ one week at a time with [livestreams every Monday](https://aka.ms/model-mondays/rsvp) and [AMAs every Friday](https://aka.ms/model-mondays/forum).
 
 1. **5-min Highlights** - catch up on key news items from the past week.
 2. **15-min Spotlight** - get a deep-dive on 1 topic from an expert.
