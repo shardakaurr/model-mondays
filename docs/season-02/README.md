@@ -82,6 +82,12 @@ This is the currently-planned schedule. Some of the events (see: ⁉️) are cur
 ![Banner](./img/S2-E6.png)
 ![Banner](./img/S2-E6-CustomerStories.png)
 
+Speaker info:
+
+Steve Frederickson is Head of Product for Capacity’s Answer Engine, where he leads the strategy and development of AI-powered knowledge solutions. A serial entrepreneur and product innovator, Steve has pioneered Generative AI capabilities since 2021 to reshape how organizations access and use information.
+
+Zachary Meierhofer is a product manager with a passion for turning complex AI into intuitive solutions. At Capacity, he builds tools that help teams access knowledge instantly and deliver smarter support. With over a decade of experience in AI and search, he blends technical depth with a strong focus on user impact.  
+
 ---
 
 ## S2E07 · Model Auto-Selection
