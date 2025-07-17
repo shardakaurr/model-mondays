@@ -73,6 +73,8 @@ This is the currently-planned schedule. Some of the events (see: ⁉️) are cur
 
 ## S2E06 · Research & Innovation
 
+### SPOTLIGHT: Foundry Labs
+
 > Azure AI Foundry Labs is a hub to explore cutting-edge research from Microsoft. Join us as we talk to SeokJin Han and Saumil Shrivastava about two key projects – the MCP Server for Azure AI Foundry, and the Magentic-UI for advancing research on human-in-the-loop experiences with AI. We're also joined by Steve Frederickson, Head of Product and Zachary Meierhoffer, Product Manager at Capacity, who walk through how Capacity's Answer Engine uses Azure AI Foundry models to unlock insights from knowledge that exists across their organizations.
 
  - 1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/26110/) - Jul 21, 2025
@@ -80,13 +82,20 @@ This is the currently-planned schedule. Some of the events (see: ⁉️) are cur
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
 ![Banner](./img/S2-E6.png)
+
+### CUSTOMER STORIES: Capacity
+
+_Join us for this new segment where we talk to customers about real world usage of Azure AI technologies and solutions. We kickoff the first episode with our friends from Capacity!_.
+
+**Speakers:**
+
+_Steve Frederickson_ is Head of Product for Capacity’s Answer Engine, where he leads the strategy and development of AI-powered knowledge solutions. A serial entrepreneur and product innovator, Steve has pioneered Generative AI capabilities since 2021 to reshape how organizations access and use information.
+
+_Zachary Meierhofer_ is a product manager with a passion for turning complex AI into intuitive solutions. At Capacity, he builds tools that help teams access knowledge instantly and deliver smarter support. With over a decade of experience in AI and search, he blends technical depth with a strong focus on user impact.  
+
 ![Banner](./img/S2-E6-CustomerStories.png)
 
-Speaker info:
 
-Steve Frederickson is Head of Product for Capacity’s Answer Engine, where he leads the strategy and development of AI-powered knowledge solutions. A serial entrepreneur and product innovator, Steve has pioneered Generative AI capabilities since 2021 to reshape how organizations access and use information.
-
-Zachary Meierhofer is a product manager with a passion for turning complex AI into intuitive solutions. At Capacity, he builds tools that help teams access knowledge instantly and deliver smarter support. With over a decade of experience in AI and search, he blends technical depth with a strong focus on user impact.  
 
 ---
 
