@@ -99,12 +99,12 @@ _Zachary Meierhofer_ is a product manager with a passion for turning complex AI 
 
 ---
 
-## S2E07 · Model Auto-Selection
+## S2E07 · AI-Assisted Azure Development
 
-> What if your model selection was made for you automatically, based on factors like query complexity, cost & performance? Join us as we discuss Model Router – a deployable chat model that acts like a multi-model proxy, intelligently routing requests to the best available model in real time, based on a given prompt.
+> Want to bring the power of AI-assisted development to Azure workflows? Join us as we talk to Sandeep Sen about two key tools – the Azure MCP server, and the GitHub Copilot Extension for Azure – that can help you understand, debug & build with Azure resources and services (beyond just Azure AI Foundry) with the power of natural language
 
- - 1️⃣ | [Register For The Livestream](URL_TBD) - Jul 28, 2025 ⁉️
- - 2️⃣ | [Register For The AMA](https://discord.gg/D7bAFEwj?event=1382862912804360354) - Jul 31, 2025
+ - 1️⃣ | [Register For The Livestream](https://aka.ms/model-mondays/rsvp) - Jul 28, 2025 ⁉️
+ - 2️⃣ | [Register For The AMA](https://aka.ms/model-mondays/chat) - Jul 31, 2025
  - 3️⃣ | [Ask Questions & View Recaps](https://aka.ms/model-mondays/forum) - Discussion Forum
 
 ![Banner](./img/S2-E7.png)
