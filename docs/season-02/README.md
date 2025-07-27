@@ -101,7 +101,7 @@ _Zachary Meierhofer_ is a product manager with a passion for turning complex AI 
 
 ## S2E07 · AI-Assisted Azure Development
 
-> Want to bring the power of AI-assisted development to Azure workflows? Join us as we talk to Sandeep Sen about two key tools – the Azure MCP server, and the GitHub Copilot Extension for Azure – that can help you understand, debug & build with Azure resources and services (beyond just Azure AI Foundry) with the power of natural language
+> Want to bring the power of AI-assisted development to Azure workflows? Join us as we talk to Sandeep Sen about two key tools – the Azure MCP server, and the GitHub Copilot Extension for Azure – that can help you understand, debug & build with Azure resources and services (beyond just Azure AI Foundry) with the power of natural language. We're also joined by Kurt DeMaagd, Chief AI Officer and co-founder at SightMachine, who walks us through how SightMachine's Filler AI streamlines operations on the manufacturing floor using Azure AI Foundry models.
 
  - 1️⃣ | [Register For The Livestream](https://aka.ms/model-mondays/rsvp) - Jul 28, 2025 ⁉️
  - 2️⃣ | [Register For The AMA](https://aka.ms/model-mondays/chat) - Jul 31, 2025
@@ -109,6 +109,15 @@ _Zachary Meierhofer_ is a product manager with a passion for turning complex AI 
 
 ![Banner](./img/S2-E7.png)
 
+### CUSTOMER STORIES: SightMachine
+
+_In this new segment, we continue talking to customers about real world usage of Azure AI technologies and solutions. In this episode we're joined by Kurt DeMaagd, Chief AI Officer at SightMachine!_.
+
+**Speakers:**
+
+_Kurt DeMaagd_ is is Chief AI Officer and Co-founder at Sight Machine. He has developed AI agents and ML applications for manufacturing predictive maintenance, prescriptive energy optimization and waste reduction, decision support tools for quality, and schedule optimization. Kurt has presented on manufacturing AI/ML at conferences such as the Microsoft Ignite, NVIDIA GTC, Qatar Economic Forum, Automate, the American Society for Quality, multiple presentations at the ASQ Statistic Division conference, plus 30+ academic publications. Previously, Kurt was a professor at Michigan State University. He has a Ph.D. in Business Administration from the University of Michigan, Ross School of Business; and a BS in Computer Science from Hope College..
+
+![Banner](./img/S2-E7-CustomerStories.png)
 ---
 
 ## S2E08 · On-Device & Local AI
