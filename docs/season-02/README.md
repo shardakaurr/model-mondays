@@ -130,6 +130,17 @@ _Kurt DeMaagd_ is is Chief AI Officer and Co-founder at Sight Machine. He has de
 
 ![Banner](./img/S2-E8.png)
 
+### CUSTOMER STORIES: Xander
+
+_In this new segment, we talk to customers about real world usage of Azure AI technologies and solutions. In this episode we're joined by Marilyn Morgan Westner, Co-founder and Chief Experience Officer, and Alex Westner, Co-founder and CEO at Xander!_.
+
+**Speakers:**
+
+_Marilyn Morgan Westner_ is is Chief Experience Officer (CXO) and Co-founder at Xander. As a researcher and educator in language and history, Marilyn earned a Ph.D. in history, focusing on underrepresented groups, culture, and technology. She spent 14 years working with older adults and their families, capturing stories, curating collections, and lecturing at Harvard University and UMass. She spent six years as a research associate at Harvard Business School, writing case studies about entrepreneurship, frontier tech, and corporate trust, and she co-created two new elective courses. Her work has appeared in the Harvard Business Review, Harvard Business Publishing, Founder’s Journey, the Journal of Popular Culture, and several academic book collections.
+
+_Alex Westner_ is is Chief Executive Officer (CEO) and Co-founder at Xander. Alex spent 20+ years leading product strategy at iZotope, Gibson, and Fidelity Labs, Fidelity Investments' innovation incubator. He began his career in engineering, focused on microphone arrays and the “cocktail party problem.” At the MIT Media Lab he trained computers to differentiate individual voices from other sounds. He spent 18 years as a product leader in audio and music technology companies, where he developed and shipped software products that analyzed and separated sound and speech. He led several successful audio products including iZotope RX, which won an Engineering Emmy Award. In 2018, he became a product leader at Fidelity Labs. Working in fintech, he gained experience protecting online privacy and led a team that successfully developed and launched a software platform that helped financial advisors introduce sustainable investing practices to their clients.
+
+![Banner](./img/S2-E8-CustomerStories.png)
 ---
 
 ## S2E09 · Models for AI Agents
