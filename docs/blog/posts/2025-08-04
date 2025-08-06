@@ -1,0 +1,102 @@
+# Model Mondays S2E8: On-Device & Local AI 
+
+Welcome to Episode 8! This week, we explored how AI is moving from the cloud to your own device, making it faster, more private, and more accessible. We also saw a real-world customer story from Xander Glasses, showing how AI can help people with hearing loss.
+
+### 1. Weekly Highlights
+- RFD Observability tools in Azure AI Foundry: Real-time model telemetry, auto evals, quick evals, Python grader.
+- GitHub Copilot Pro with Spark: AI pair programmer for code explanation and workflow suggestions.
+- Synthetic Data for Vision Models: Training accurate models with procedurally generated data.
+- Agent-Friendly Websites: Making sites accessible to AI agents via APIs, semantic markup, and OpenAPI specs.
+- MCP (Model Context Protocol): Standardizing agent memory and context for scalable AI.
+
+### 2. Spotlight: Foundry Local – On-Device AI
+- **What is Foundry Local?**  
+  A toolkit to run open-source AI models directly on your device (CPU, GPU, NPU) for fast, private, and efficient inference.
+- **Why does it matter?**  
+  Developers can work with data locally, switch seamlessly between local and cloud, and leverage rich tooling (CLI, SDK, REST API).
+- **Demo Highlights:**  
+  - Install Foundry Local ([GitHub Repo](https://github.com/microsoft/foundry-local))
+  - List and run models on device
+  - Use RAG (Retrieval-Augmented Generation) with local documents
+  - Monitor deployments and cache models
+  - Integrate with VS Code and GitHub Copilot ([AI Toolkit for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-ai-foundry.ai-toolkit))
+
+### 3. Customer Story: Xander Glasses
+- **Problem:**  
+  Real-time captioning for people with hearing loss, especially in noisy environments or where Wi-Fi/cloud is unreliable.
+- **Solution:**  
+  Smart glasses with embedded Microsoft Speech SDK ([Speech SDK](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/)), running speech-to-text locally for instant captions.
+- **Innovation:**  
+  Using generative AI to simplify captions for users with cognitive disabilities, and supporting multiple languages and translation features.
+
+---
+
+## Key Takeaways
+
+1. **On-Device AI is Here:**  
+   [Foundry Local](https://github.com/microsoft/foundry-local) lets you run powerful models on your own hardware, unlocking speed and privacy.
+2. **Seamless Local-Cloud Workflows:**  
+   Developers can switch between local and cloud easily, using [CLI, SDK, and REST API](https://learn.microsoft.com/en-us/azure/developer/azure-ai-foundry/overview).
+3. **Real-World Impact:**  
+   [Xander Glasses](https://www.xander.tech/) show how AI can make a difference for accessibility, with instant, reliable captions using [Microsoft Speech SDK](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/).
+4. **Agent-Friendly Design:**  
+   Building APIs and semantic markup into your site makes it accessible to AI agents. Learn more about [Agent-Friendly Websites](https://learn.microsoft.com/en-us/azure/developer/azure-ai-foundry/model-context-protocol).
+5. **Community & Learning:**  
+   Join the [Discord](https://discord.com/invite/azureaifoundry), attend [AMAs](https://aka.ms/model-mondays/forum), and explore the [forum](https://aka.ms/model-mondays/forum) for more resources and support.
+
+---
+
+## Sharda's Tips: How I Wrote This Blog
+
+Writing this blog felt like sharing my own learning journey with friends. After watching the episode, I realized how much easier Azure development can be with tools like MCP Server and GitHub Copilot for Azure. The demos and real-world stories made everything click for me, and I wanted to pass that clarity on to you.
+
+I started by thinking about why this topic matters and how it could help someone new to Azure. I tried to explain things in a way that’s easy to understand, using simple language and real examples from the episode. To organize my thoughts and make sure I didn’t miss anything important, I used GitHub Copilot.
+
+Here’s the prompt I gave Copilot to help me draft this blog:
+
+> Generate a technical blog post for Model Mondays S2E8 based on the transcript and episode details. Focus on Foundry Local, Xander Glasses, and real-world demos. Explain the concept for students, add a section on practical applications, and share tips for writing technical blogs. Make it clear, engaging, and useful for developers and students.
+
+After watching the video, I felt inspired to try out these tools myself. The way the speakers explained and demonstrated everything made me believe that anyone can get started, no matter their background. My goal with this blog is to help you feel the same way—curious, confident, and ready to explore what AI and Azure can do for you. If you have questions or want to share your own experience, I’d love to hear from you.
+
+---
+## Coming Up Next Week:
+![S2E09 Models for AI Agents](../../season-02/img/S2-E9.png)
+
+Want to build agentic AI applications but looking for resources to learn configuration and design patterns? Join us as we talk to Mona Whalin about the Azure AI Foundry Agent Catalog – open-source samples you can explore to accelerate your agent development by integration into projects!
+
+1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/26128/) - Aug 11, 2025  
+2️⃣ | Register For The AMA - Aug 15, 2025  
+3️⃣ | Ask Questions & View Recaps - [Discussion Forum](https://aka.ms/model-mondays/forum)
+
+<br/>
+
+---
+
+## About Model Mondays
+
+Model Mondays is a weekly series designed to help you build your Azure AI Foundry Model IQ with three elements:
+
+- 5-Minute Highlights – Quick news and updates about Azure AI models and tools on Monday
+- 15-Minute Spotlight – Deep dive into a key model, protocol, or feature on Monday
+- 30-Minute AMA on Friday – Live Q&A with subject matter experts from Monday livestream
+
+Want to get started?
+
+1. [Register For Livestreams](https://developer.microsoft.com/en-us/reactor/series/S-1485/?wt.mc_id=studentamb_263805) - every Monday at 1:30pm ET
+1. [Watch Past Replays](https://aka.ms/model-mondays/playlist) to revisit other spotlight topics
+1. [Register For AMA](https://aka.ms/model-mondays/chat) - to join the next AMA on the schedule
+1. [Recap Past AMAs](https://aka.ms/model-mondays/forum) - check the AMA schedule for episode specific links
+
+<br/>
+
+## Join The Community
+Great devs don't build alone! In a fast-paced developer ecosystem, there's no time to hunt for help. That's why we have the Azure AI Developer Community. Join us today and let's journey together!
+
+1. [Join the Discord](https://aka.ms/model-mondays/discord) - for real-time chats, events & learning
+2. [Explore the Forum](https://aka.ms/model-mondays/forum) - for AMA recaps, Q&A, and help!
+
+<br/>
+
+## About Me:
+I'm Sharda, a Gold Microsoft Learn Student Ambassador interested in cloud and AI. Find me on Github, Dev.to, Tech Community and Linkedin. In this blog series I have summarized my takeaways from this week's Model Mondays livestream.
+
