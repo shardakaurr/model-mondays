@@ -1,10 +1,6 @@
 # Model Mondays: Season 2
 
-This is the currently-planned schedule. Some of the events (see: ⁉️) are currently being planned so please check back regularly for updates!
-
-![Spotlights](./img/S2-Agenda.png)
-
----
+We are currently under way for Season 2 with a scheduled 12-episode series. Some of these topics may be modified or deferred based on product updates, so check back frequently.
 
 <br/> 
 
@@ -196,9 +192,25 @@ _Alex Westner_ is is Chief Executive Officer (CEO) and Co-founder at Xander. Ale
 
 > Did you know the Hugging Face collection on Azure AI Foundry Models currently has over 10K options? So when should we use them and how do we select the right one? Join us as we talk about getting started with Hugging Face models on Azure AI – and how you can request new additions. 
 
- - 1️⃣ | Register For The Livestream - Date TBD ⁉️
+ - 1️⃣ | Register For The Livestream - Sep 15 ⁉️
  - 2️⃣ | Register For The AMA - Date TBD ⁉️
  - 3️⃣ | Ask Questions & View Recaps - Event TBA⁉️
 
-![Banner](./img/S2-E13.png)
 
+---
+
+## S2E14 · Smarter Model Routing (In-Planning)
+
+> Model selection from 11K+ options, is hard! What if you had a smart router that automatically chose the right model for the job? Join us as we talk to Sanjeev Jagtap about Model Router and how it can streamline the developer experience for model selection.
+
+ - 1️⃣ | Register For The Livestream - Sep 22 ⁉️
+ - 2️⃣ | Register For The AMA - Date TBD ⁉️
+ - 3️⃣ | Ask Questions & View Recaps - Event TBA⁉️
+
+## S2E15 · TBD (In-Planning)
+
+> Topic TBD. 
+
+ - 1️⃣ | Register For The Livestream - Sep 29 ⁉️
+ - 2️⃣ | Register For The AMA - Date TBD ⁉️
+ - 3️⃣ | Ask Questions & View Recaps - Event TBA⁉️
