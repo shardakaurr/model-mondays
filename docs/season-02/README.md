@@ -149,6 +149,15 @@ _Alex Westner_ is is Chief Executive Officer (CEO) and Co-founder at Xander. Ale
 
 ![Banner](./img/S2-E9.png)
 
+### CUSTOMER STORIES: Atomicwork
+
+_In this ongoing segment, we continue talking to customers about real world usage of Azure AI technologies and solutions. In this episode we're joined by Sukrit Chatterjee, AI Research Engineer at Atomicwork!_.
+
+**Speakers:**
+
+_Sukrit Chatterjee_ is an AI Research Engineer at Atomicwork, designing integrated AI systems that learn from their environment and adapt to task context. With a background in applied AI and system integration, he works at the intersection of research and engineering to advance agentic, context-aware applications.
+
+![Banner](./img/S2-E9-CustomerStories.png)
 ---
 
 ## S2E10 · Image & Video Playgrounds
