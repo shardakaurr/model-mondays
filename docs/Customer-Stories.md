@@ -34,4 +34,15 @@ _Marilyn Morgan Westner_ is is Chief Experience Officer (CXO) and Co-founder at 
 _Alex Westner_ is is Chief Executive Officer (CEO) and Co-founder at Xander. Alex spent 20+ years leading product strategy at iZotope, Gibson, and Fidelity Labs, Fidelity Investments' innovation incubator. He began his career in engineering, focused on microphone arrays and the “cocktail party problem.” At the MIT Media Lab he trained computers to differentiate individual voices from other sounds. He spent 18 years as a product leader in audio and music technology companies, where he developed and shipped software products that analyzed and separated sound and speech. He led several successful audio products including iZotope RX, which won an Engineering Emmy Award. In 2018, he became a product leader at Fidelity Labs. Working in fintech, he gained experience protecting online privacy and led a team that successfully developed and launched a software platform that helped financial advisors introduce sustainable investing practices to their clients.
 
 ![Banner](./season-02/img/S2-E8-CustomerStories.png)
+
+### Aug 11th 2025: Atomicwork
+
+In this ongoing segment, we continue talking to customers about real world usage of Azure AI technologies and solutions. In this episode we're joined by Sukrit Chatterjee, AI Research Engineer at Atomicwork.
+
+**Speakers:**
+
+_Sukrit Chatterjee_ is an AI Research Engineer at Atomicwork, designing integrated AI systems that learn from their environment and adapt to task context. With a background in applied AI and system integration, he works at the intersection of research and engineering to advance agentic, context-aware applications.
+
+![Banner](./season-02/img/S2-E9-CustomerStories.png)
+---
 ---
