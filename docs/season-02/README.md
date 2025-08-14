@@ -160,9 +160,9 @@ _Sukrit Chatterjee_ is an AI Research Engineer at Atomicwork, designing integrat
 ![Banner](./img/S2-E9-CustomerStories.png)
 ---
 
-## S2E10 · Image & Video Playgrounds
+## S2E10 · Document Processing
 
-> Want high-fidelity testbeds to prototype visual and video-based generative AI apps with cutting-edge models like Sora and GPT-image-1? Join us as we talk to Thasmika Gokal about going from prompt to playback with Azure AI Foundry Image & Video Playgrounds. 
+> We’re joined by Mistral AI, the European AI innovator behind Mistral Doc AI, now available as a direct from Azure model in Azure AI Foundry. We’ll dive into how this multimodal, multilingual document processing model unlocks complex unstructured content—turning scanned PDFs, images, and handwritten forms into structured, actionable data. From AI sovereignty to real-world use cases across industries, Mistral will share how Doc AI is helping organizations transform their document workflows at scale. 
 
  - 1️⃣ | [Register For The Livestream](https://developer.microsoft.com/en-us/reactor/events/26129/) - Aug 18, 2025
  - 2️⃣ | [Register For The AMA](https://discord.gg/azureaifoundry?event=1382864122902745228) - Aug 22, 2025
