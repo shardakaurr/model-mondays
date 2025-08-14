@@ -44,5 +44,19 @@ In this ongoing segment, we continue talking to customers about real world usage
 _Sukrit Chatterjee_ is an AI Research Engineer at Atomicwork, designing integrated AI systems that learn from their environment and adapt to task context. With a background in applied AI and system integration, he works at the intersection of research and engineering to advance agentic, context-aware applications.
 
 ![Banner](./season-02/img/S2-E9-CustomerStories.png)
+
+### Aug 18th 2025: Oracle
+
+_Keeping in with today's theme, we're sharing a prior session with Srinivas Gadde, Senior Director of Sotfware Engineering at Oracle Health, who shares how fine tuning helps improve quality and reduce latency in a clinical AI setting!_.
+
+**Speakers:**
+
+_Sri Gadde_ is a seasoned technology leader with over 15 years of experience in AI-driven software development. As Senior Director of Software Development at Oracle, he leads efforts in conversational AI and AI-powered clinical workflows—advancing healthcare efficiency and patient safety through cutting-edge modeling techniques and responsible AI practices.
+
+![Banner](./season-02/img/S2-E10-CustomerStories.png)
+
+
+
+
 ---
 ---
